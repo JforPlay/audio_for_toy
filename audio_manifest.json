@@ -135038,6 +135038,1680 @@
       "cues": [
         "tb-9"
       ]
+    },
+    "tianlangxing01_jinmenjieshao_sfx_001": {
+      "size": 212800,
+      "md5": "9a3a8deed9f96e8e7cf24b58d00436da",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_sfx_001/Tianlangxing01_Jinmenjieshao_SFX_001.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_SFX_001"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_sfx_002": {
+      "size": 290624,
+      "md5": "206aa5853d9f22cd6eaf826b45bd609d",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_sfx_002/Tianlangxing01_Jinmenjieshao_SFX_002.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_SFX_002"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_sfx_003": {
+      "size": 395328,
+      "md5": "a531599db58946a4d00c418a9408f245",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_sfx_003/Tianlangxing01_Jinmenjieshao_SFX_003.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_SFX_003"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_sfx_004": {
+      "size": 435008,
+      "md5": "723e53158a72df661e0aff214d663055",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_sfx_004/Tianlangxing01_Jinmenjieshao_SFX_004.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_SFX_004"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_sfx_005": {
+      "size": 289600,
+      "md5": "ef0fa1f805cf0029dd314c8f35f6ff6a",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_sfx_005/Tianlangxing01_Jinmenjieshao_SFX_005.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_SFX_005"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_sfx_006": {
+      "size": 140864,
+      "md5": "90cfe5cb7711e81b6496b665bbdc5593",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_sfx_006/Tianlangxing01_Jinmenjieshao_SFX_006.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_SFX_006"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_sfx_007": {
+      "size": 250432,
+      "md5": "8a793c5dc652bba6f4f92f212f5e1e95",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_sfx_007/Tianlangxing01_Jinmenjieshao_SFX_007.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_SFX_007"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_sfx_008": {
+      "size": 416832,
+      "md5": "b3fb3b36be070baf05ad8eb40e794e69",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_sfx_008/Tianlangxing01_Jinmenjieshao_SFX_008.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_SFX_008"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_001": {
+      "size": 33408,
+      "md5": "1ae00fa93c2249a24b745dcbda58ab08",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_001/Tianlangxing01_Jinmenjieshao_speech_001.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_001"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_002": {
+      "size": 16768,
+      "md5": "da694727cab50f854822110b079d7bbb",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_002/Tianlangxing01_Jinmenjieshao_speech_002.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_002"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_003": {
+      "size": 53824,
+      "md5": "ea574d05c97a4b6e17e08e3e13ad3e07",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_003/Tianlangxing01_Jinmenjieshao_speech_003.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_003"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_004": {
+      "size": 52800,
+      "md5": "f6e13e7af582601f9c6b311e07a93b9a",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_004/Tianlangxing01_Jinmenjieshao_speech_004.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_004"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_005": {
+      "size": 55520,
+      "md5": "5d23e74f01e72d4342761e99fbf5e42a",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_005/Tianlangxing01_Jinmenjieshao_speech_005.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_005"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_006": {
+      "size": 41248,
+      "md5": "9c7bcb902c4d7dbad283aa6f5a2c3328",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_006/Tianlangxing01_Jinmenjieshao_speech_006.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_006"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_007": {
+      "size": 110752,
+      "md5": "7924815e8d718f30e752ba39917486f4",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_007/Tianlangxing01_Jinmenjieshao_speech_007.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_007"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_008": {
+      "size": 55360,
+      "md5": "365d2c960baeb9ab9d75871c06466f70",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_008/Tianlangxing01_Jinmenjieshao_speech_008.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_008"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_009": {
+      "size": 69120,
+      "md5": "82cec545b62f692031d31fb356b6529d",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_009/Tianlangxing01_Jinmenjieshao_speech_009.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_009"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_010": {
+      "size": 96672,
+      "md5": "7a9ddba4cce8db04aa54c80b57217909",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_010/Tianlangxing01_Jinmenjieshao_speech_010.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_010"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_011": {
+      "size": 61984,
+      "md5": "e9fdf9acc522547451212c43b80ef055",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_011/Tianlangxing01_Jinmenjieshao_speech_011.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_011"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_012": {
+      "size": 84064,
+      "md5": "9b4b9cc5c071342f86e83bc720b77166",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_012/Tianlangxing01_Jinmenjieshao_speech_012.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_012"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_013": {
+      "size": 52960,
+      "md5": "be540344cb9d12bcaf50155c07e98e59",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_013/Tianlangxing01_Jinmenjieshao_speech_013.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_013"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_014": {
+      "size": 52128,
+      "md5": "545e097747ac39e6b264bacf7509f655",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_014/Tianlangxing01_Jinmenjieshao_speech_014.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_014"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_015": {
+      "size": 83744,
+      "md5": "c1266b236247dcdc4edc51d9895c8aea",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_015/Tianlangxing01_Jinmenjieshao_speech_015.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_015"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_016": {
+      "size": 73536,
+      "md5": "cdbc36d633e453a9a49f04180227a580",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_016/Tianlangxing01_Jinmenjieshao_speech_016.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_016"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_017": {
+      "size": 47872,
+      "md5": "d421c2299b5f7e01eae86c0a3e1c9fe9",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_017/Tianlangxing01_Jinmenjieshao_speech_017.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_017"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_018": {
+      "size": 75904,
+      "md5": "3b824c315bf4122fffad2fad401e8012",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_018/Tianlangxing01_Jinmenjieshao_speech_018.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_018"
+      ]
+    },
+    "tianlangxing01_jinmenjieshao_speech_019": {
+      "size": 62304,
+      "md5": "72ef635678cce085d6408ad758b8798d",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing01_jinmenjieshao_speech_019/Tianlangxing01_Jinmenjieshao_speech_019.opus"
+      ],
+      "cues": [
+        "Tianlangxing01_Jinmenjieshao_speech_019"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_020": {
+      "size": 38176,
+      "md5": "2da9c36256e0d695e836b853b2797156",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_020/Tianlangxing02_Zoulangdengdai_speech_020.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_020"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_021": {
+      "size": 39552,
+      "md5": "190f8f387938f44f4340d3d82ca5a6bf",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_021/Tianlangxing02_Zoulangdengdai_speech_021.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_021"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_022": {
+      "size": 55168,
+      "md5": "d99f0fe406a67dfc212cb1e1fd879be4",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_022/Tianlangxing02_Zoulangdengdai_speech_022.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_022"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_023": {
+      "size": 52960,
+      "md5": "8a64d550ad56e87e8bdd858b69bd0dcb",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_023/Tianlangxing02_Zoulangdengdai_speech_023.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_023"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_024": {
+      "size": 60608,
+      "md5": "6e621fe605e144cc9a39e746d7d87057",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_024/Tianlangxing02_Zoulangdengdai_speech_024.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_024"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_025": {
+      "size": 74400,
+      "md5": "390559ff5fd42611adb11a84cb1a7ddb",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_025/Tianlangxing02_Zoulangdengdai_speech_025.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_025"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_026": {
+      "size": 51104,
+      "md5": "75f107a36d70c9b40a10ff8599f4b723",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_026/Tianlangxing02_Zoulangdengdai_speech_026.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_026"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_027": {
+      "size": 38848,
+      "md5": "f4e5aa97d531e26d2723c149b8351f9d",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_027/Tianlangxing02_Zoulangdengdai_speech_027.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_027"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_028": {
+      "size": 36640,
+      "md5": "ed2acf389a7089168190435d9eeff5be",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_028/Tianlangxing02_Zoulangdengdai_speech_028.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_028"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_029": {
+      "size": 95296,
+      "md5": "0960cb72eaf143181b698bc99bd8f441",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_029/Tianlangxing02_Zoulangdengdai_speech_029.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_029"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_030": {
+      "size": 55680,
+      "md5": "8078c32a4f39f4cdbbc576efe2404069",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_030/Tianlangxing02_Zoulangdengdai_speech_030.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_030"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_031": {
+      "size": 52128,
+      "md5": "176addb185fe697072b3d4e441e0c048",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_031/Tianlangxing02_Zoulangdengdai_speech_031.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_031"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_032": {
+      "size": 60800,
+      "md5": "fa3e8c33cf815b83e5a8339295d3de44",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_032/Tianlangxing02_Zoulangdengdai_speech_032.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_032"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_033": {
+      "size": 40544,
+      "md5": "6a77110efefa404f0c536e6dd828da91",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_033/Tianlangxing02_Zoulangdengdai_speech_033.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_033"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_034": {
+      "size": 68608,
+      "md5": "972a9a12af051f43795539e0ce7b9adc",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_034/Tianlangxing02_Zoulangdengdai_speech_034.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_034"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_035": {
+      "size": 73536,
+      "md5": "899a264004f02970acbcc92eb0653e9b",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_035/Tianlangxing02_Zoulangdengdai_speech_035.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_035"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_036": {
+      "size": 46496,
+      "md5": "ead213f865dbc73c85eefe5c6b64a670",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_036/Tianlangxing02_Zoulangdengdai_speech_036.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_036"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_037": {
+      "size": 55680,
+      "md5": "ed0505beea84ef02ef87a79113e79122",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_037/Tianlangxing02_Zoulangdengdai_speech_037.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_037"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_038": {
+      "size": 99872,
+      "md5": "87db5afa036e3e8ded20bfa63f298fcd",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_038/Tianlangxing02_Zoulangdengdai_speech_038.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_038"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_039": {
+      "size": 42080,
+      "md5": "6f314751fa954fb03ee82c4531ed7528",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_039/Tianlangxing02_Zoulangdengdai_speech_039.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_039"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_040": {
+      "size": 52960,
+      "md5": "97c5e0b0daf7b73601fa8095cefa6b7d",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_040/Tianlangxing02_Zoulangdengdai_speech_040.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_040"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_041": {
+      "size": 58592,
+      "md5": "0634f102687e7a2e0d09be8113cf480d",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_041/Tianlangxing02_Zoulangdengdai_speech_041.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_041"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_042": {
+      "size": 51104,
+      "md5": "798db6d8bcdb1af5e58d6829a2427061",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_042/Tianlangxing02_Zoulangdengdai_speech_042.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_042"
+      ]
+    },
+    "tianlangxing02_zoulangdengdai_speech_043": {
+      "size": 40736,
+      "md5": "75810a796e0d84b6fac8f1d7b2f53d1b",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing02_zoulangdengdai_speech_043/Tianlangxing02_Zoulangdengdai_speech_043.opus"
+      ],
+      "cues": [
+        "Tianlangxing02_Zoulangdengdai_speech_043"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_01": {
+      "size": 37696,
+      "md5": "da08a78b2e6ec8b952f2a4e5a24f7cfc",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_01/Tianlangxing_dorm3d_timelineSE01_01.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_01"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_02": {
+      "size": 21056,
+      "md5": "0822770406d9523e93466e5f4ebb5755",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_02/Tianlangxing_dorm3d_timelineSE01_02.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_02"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_03": {
+      "size": 35136,
+      "md5": "233237fa596a6cd851b8e7e90ee485dd",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_03/Tianlangxing_dorm3d_timelineSE01_03.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_03"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_04": {
+      "size": 30016,
+      "md5": "dc04c685124edae2c57653c8e1f55fd6",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_04/Tianlangxing_dorm3d_timelineSE01_04.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_04"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_05": {
+      "size": 25408,
+      "md5": "84bd4985edf43bdff5d222ac443f4ea4",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_05/Tianlangxing_dorm3d_timelineSE01_05.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_05"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_06": {
+      "size": 35904,
+      "md5": "ea71710ef1f4fea0e37e763c309778bf",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_06/Tianlangxing_dorm3d_timelineSE01_06.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_06"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_07": {
+      "size": 45120,
+      "md5": "9066479d38efd8e173ac14573e75aa85",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_07/Tianlangxing_dorm3d_timelineSE01_07.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_07"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_08": {
+      "size": 43840,
+      "md5": "392ab153c09402eb24eec5e2abce9e61",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_08/Tianlangxing_dorm3d_timelineSE01_08.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_08"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_09": {
+      "size": 72512,
+      "md5": "c958a7edb5a27bf4b3f8355b588f133a",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_09/Tianlangxing_dorm3d_timelineSE01_09.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_09"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_10": {
+      "size": 39744,
+      "md5": "e7a6333b74d1d70855b529985ae0e921",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_10/Tianlangxing_dorm3d_timelineSE01_10.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_10"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_11": {
+      "size": 27200,
+      "md5": "9368597211ea2f2614954c7cb4db678d",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_11/Tianlangxing_dorm3d_timelineSE01_11.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_11"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_12": {
+      "size": 40000,
+      "md5": "d45bcacb90fc80efa92e63adc0c934c0",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_12/Tianlangxing_dorm3d_timelineSE01_12.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_12"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_13": {
+      "size": 76352,
+      "md5": "9d12e20b88d99b9541d8033a835a0e04",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_13/Tianlangxing_dorm3d_timelineSE01_13.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_13"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_14": {
+      "size": 70976,
+      "md5": "1a8e59c708a1b9d21c045cf53095a90d",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_14/Tianlangxing_dorm3d_timelineSE01_14.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_14"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_15": {
+      "size": 23104,
+      "md5": "538ed293e25a3f158b8e0354c817ffb0",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_15/Tianlangxing_dorm3d_timelineSE01_15.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_15"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_16": {
+      "size": 45376,
+      "md5": "957f03432d03fe8affb0d676cdf50caa",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_16/Tianlangxing_dorm3d_timelineSE01_16.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_16"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_17": {
+      "size": 72000,
+      "md5": "0465e27aecd96b15bcaa378991c29fe7",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_17/Tianlangxing_dorm3d_timelineSE01_17.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_17"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_18": {
+      "size": 33088,
+      "md5": "bcc746f2411415caef49f1374b4f38ea",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_18/Tianlangxing_dorm3d_timelineSE01_18.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_18"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_19": {
+      "size": 55104,
+      "md5": "eb971db0795892b19d549caf00a25d98",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_19/Tianlangxing_dorm3d_timelineSE01_19.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_19"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_20": {
+      "size": 168000,
+      "md5": "5fa80597fde3b775bb5356b7bfef1eae",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_20/Tianlangxing_dorm3d_timelineSE01_20.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_20"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_21": {
+      "size": 190016,
+      "md5": "4ae0cdea876ebd5af9af66f873dc84cc",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_21/Tianlangxing_dorm3d_timelineSE01_21.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_21"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_22": {
+      "size": 95808,
+      "md5": "e45c26a6665fcb0375ba7ef2719ed329",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_22/Tianlangxing_dorm3d_timelineSE01_22.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_22"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_23": {
+      "size": 29248,
+      "md5": "5b24ebd62c6c7c5abfb4cd5558e1a009",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_23/Tianlangxing_dorm3d_timelineSE01_23.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_23"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_24": {
+      "size": 25664,
+      "md5": "8431b5dc5f02df6f0ca5202503e88a9a",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_24/Tianlangxing_dorm3d_timelineSE01_24.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_24"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_25": {
+      "size": 30528,
+      "md5": "27d229acbc939c79d97429a4f4c9fc8f",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_25/Tianlangxing_dorm3d_timelineSE01_25.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_25"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_26": {
+      "size": 45120,
+      "md5": "440b6dd21e26419e916fc7939cd05655",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_26/Tianlangxing_dorm3d_timelineSE01_26.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_26"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_27": {
+      "size": 53824,
+      "md5": "03e94fe92ca0673c0705e8351859e596",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_27/Tianlangxing_dorm3d_timelineSE01_27.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_27"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_28": {
+      "size": 85568,
+      "md5": "e09ce27bdab93585f7df71e6f7dda609",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_28/Tianlangxing_dorm3d_timelineSE01_28.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_28"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_29": {
+      "size": 74304,
+      "md5": "ed576c8a10f9cc998c2e1a8e6b5ad9cf",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_29/Tianlangxing_dorm3d_timelineSE01_29.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_29"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_30": {
+      "size": 90432,
+      "md5": "c345c9e3e84aa2c022a99cb77a9c56ac",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_30/Tianlangxing_dorm3d_timelineSE01_30.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_30"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_31": {
+      "size": 83520,
+      "md5": "b9b256c0b003a20b93fdb53ff877b574",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_31/Tianlangxing_dorm3d_timelineSE01_31.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_31"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_32": {
+      "size": 76096,
+      "md5": "9310264744728ed5ea746e3e2cb5d55e",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_32/Tianlangxing_dorm3d_timelineSE01_32.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_32"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_33": {
+      "size": 32832,
+      "md5": "d8fd4cb42b5bbd569616950b544adc69",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_33/Tianlangxing_dorm3d_timelineSE01_33.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_33"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_34": {
+      "size": 24128,
+      "md5": "2ed237d588c9c0f0c48cfad363194b5c",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_34/Tianlangxing_dorm3d_timelineSE01_34.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_34"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_35": {
+      "size": 46144,
+      "md5": "d1b9084ca502dd111fcce732f4c51f8e",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_35/Tianlangxing_dorm3d_timelineSE01_35.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_35"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_36": {
+      "size": 23616,
+      "md5": "131882d49385326d8dace523efdacec1",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_36/Tianlangxing_dorm3d_timelineSE01_36.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_36"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_37": {
+      "size": 30784,
+      "md5": "34e6410e31ea985e1688cd5d1b53627e",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_37/Tianlangxing_dorm3d_timelineSE01_37.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_37"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_38": {
+      "size": 26432,
+      "md5": "d0b3c0c6105b38d138f7ca53fe633af5",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_38/Tianlangxing_dorm3d_timelineSE01_38.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_38"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_39": {
+      "size": 26944,
+      "md5": "e8d8e7f86395ea0d79e119c0d90b5dad",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_39/Tianlangxing_dorm3d_timelineSE01_39.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_39"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_40": {
+      "size": 28736,
+      "md5": "c0498c63c47f9014afd711d4b1511e9d",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_40/Tianlangxing_dorm3d_timelineSE01_40.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_40"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_41": {
+      "size": 33344,
+      "md5": "e8e08b465c31256db906bf9034c53d33",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_41/Tianlangxing_dorm3d_timelineSE01_41.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_41"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_42": {
+      "size": 34368,
+      "md5": "5e86027445fc248a332870f16e9b96de",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_42/Tianlangxing_dorm3d_timelineSE01_42.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_42"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_43": {
+      "size": 27456,
+      "md5": "7a1f03a2ef5ad6b367818534c57cab1c",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_43/Tianlangxing_dorm3d_timelineSE01_43.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_43"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_44": {
+      "size": 63296,
+      "md5": "2182e8a271291c47356b56c9d1f860ac",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_44/Tianlangxing_dorm3d_timelineSE01_44.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_44"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_45": {
+      "size": 108096,
+      "md5": "bd3b735adb74c950eb2bcd3bc3ae0b88",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_45/Tianlangxing_dorm3d_timelineSE01_45.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_45"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_46": {
+      "size": 154176,
+      "md5": "da23b306bd334c3b22f6af64f9bd3a46",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_46/Tianlangxing_dorm3d_timelineSE01_46.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_46"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_47": {
+      "size": 163392,
+      "md5": "2445dd95f383e8f640eb281c568e78f6",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_47/Tianlangxing_dorm3d_timelineSE01_47.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_47"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_48": {
+      "size": 157504,
+      "md5": "375cef8cbbbde4d71744b62985018959",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_48/Tianlangxing_dorm3d_timelineSE01_48.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_48"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_49": {
+      "size": 83008,
+      "md5": "157391338ef1f74773c49579cb3d1220",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_49/Tianlangxing_dorm3d_timelineSE01_49.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_49"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_50": {
+      "size": 120640,
+      "md5": "01bfba1ac870b45deb10d5c67a669616",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_50/Tianlangxing_dorm3d_timelineSE01_50.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_50"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_51": {
+      "size": 103232,
+      "md5": "3b20a4bea3f5cdd0f90b3a543214f456",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_51/Tianlangxing_dorm3d_timelineSE01_51.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_51"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_52": {
+      "size": 77632,
+      "md5": "df171d147dc072bd48a05031492c6761",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_52/Tianlangxing_dorm3d_timelineSE01_52.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_52"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_53": {
+      "size": 66880,
+      "md5": "8c37820ad8e612249f5ad91adf20fa08",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_53/Tianlangxing_dorm3d_timelineSE01_53.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_53"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_54": {
+      "size": 167488,
+      "md5": "820307c13188a564cfdce015fbffbf6e",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_54/Tianlangxing_dorm3d_timelineSE01_54.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_54"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_55": {
+      "size": 156480,
+      "md5": "0cdfd2d50fe3fa035044e024aa7f91c0",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_55/Tianlangxing_dorm3d_timelineSE01_55.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_55"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_56": {
+      "size": 58688,
+      "md5": "276fdee4ade2df4890d74ae8f96716ba",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_56/Tianlangxing_dorm3d_timelineSE01_56.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_56"
+      ]
+    },
+    "tianlangxing_dorm3d_timelinese01_57": {
+      "size": 86848,
+      "md5": "8eb7f484b09f9e2c3a5d49a10e54fbd9",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_timelinese01_57/Tianlangxing_dorm3d_timelineSE01_57.opus"
+      ],
+      "cues": [
+        "Tianlangxing_dorm3d_timelineSE01_57"
+      ]
+    },
+    "tianlangxing_dorm3d_tone": {
+      "size": 4162400,
+      "md5": "6bf286d551fe75480690c1e4e149d766",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone01.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone02.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone03.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone04.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone05.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone06.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone07.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone08.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone09.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone10.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone11.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone12.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone13.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone14.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone15.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone16.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone17.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone18.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone19.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone20.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone21.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone22.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone23.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone24.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone25.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone26.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone27.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone28.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone29.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone30.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone31.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone32.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone33.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone34.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone35.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone36.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone37.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone38.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone39.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone40.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone41.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone42.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone43.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone44.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone45.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone46.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone47.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/dorm3d_tone48.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello01.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello02.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello03.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello04.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello05.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello06.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello07.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello08.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello09.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello10.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello11.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello12.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello13.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello14.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello15.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/hello16.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch01.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch02.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch03.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch04.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch05.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch06.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch07.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch08.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch09.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch10.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch11.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch12.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch13.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch14.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch15.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch16.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch17.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch18.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch19.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch20.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch21.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch22.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch23.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch24.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch25.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch26.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch27.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch28.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch29.opus",
+        "event/sirius/tianlangxing_dorm3d_tone/touch30.opus"
+      ],
+      "cues": [
+        "dorm3d_tone01",
+        "dorm3d_tone02",
+        "dorm3d_tone03",
+        "dorm3d_tone04",
+        "dorm3d_tone05",
+        "dorm3d_tone06",
+        "dorm3d_tone07",
+        "dorm3d_tone08",
+        "dorm3d_tone09",
+        "dorm3d_tone10",
+        "dorm3d_tone11",
+        "dorm3d_tone12",
+        "dorm3d_tone13",
+        "dorm3d_tone14",
+        "dorm3d_tone15",
+        "dorm3d_tone16",
+        "dorm3d_tone17",
+        "dorm3d_tone18",
+        "dorm3d_tone19",
+        "dorm3d_tone20",
+        "dorm3d_tone21",
+        "dorm3d_tone22",
+        "dorm3d_tone23",
+        "dorm3d_tone24",
+        "dorm3d_tone25",
+        "dorm3d_tone26",
+        "dorm3d_tone27",
+        "dorm3d_tone28",
+        "dorm3d_tone29",
+        "dorm3d_tone30",
+        "dorm3d_tone31",
+        "dorm3d_tone32",
+        "dorm3d_tone33",
+        "dorm3d_tone34",
+        "dorm3d_tone35",
+        "dorm3d_tone36",
+        "dorm3d_tone37",
+        "dorm3d_tone38",
+        "dorm3d_tone39",
+        "dorm3d_tone40",
+        "dorm3d_tone41",
+        "dorm3d_tone42",
+        "dorm3d_tone43",
+        "dorm3d_tone44",
+        "dorm3d_tone45",
+        "dorm3d_tone46",
+        "dorm3d_tone47",
+        "dorm3d_tone48",
+        "hello01",
+        "hello02",
+        "hello03",
+        "hello04",
+        "hello05",
+        "hello06",
+        "hello07",
+        "hello08",
+        "hello09",
+        "hello10",
+        "hello11",
+        "hello12",
+        "hello13",
+        "hello14",
+        "hello15",
+        "hello16",
+        "touch01",
+        "touch02",
+        "touch03",
+        "touch04",
+        "touch05",
+        "touch06",
+        "touch07",
+        "touch08",
+        "touch09",
+        "touch10",
+        "touch11",
+        "touch12",
+        "touch13",
+        "touch14",
+        "touch15",
+        "touch16",
+        "touch17",
+        "touch18",
+        "touch19",
+        "touch20",
+        "touch21",
+        "touch22",
+        "touch23",
+        "touch24",
+        "touch25",
+        "touch26",
+        "touch27",
+        "touch28",
+        "touch29",
+        "touch30"
+      ]
+    },
+    "tianlangxing_dorm3d_tone1": {
+      "size": 4396864,
+      "md5": "d708d65eb7bd9bfadb938ad851ed0953",
+      "category": "sirius",
+      "group_key": null,
+      "outputs": [
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello1.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello10.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello11.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello12.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello13.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello14.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello15.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello2.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello3.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello4.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello5.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello6.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello7.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello8.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_hello9.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift1_tone1.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift1_tone2.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift1_tone3.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift1_tone4.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift1_tone5.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift1_tone6.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift1_tone7.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift2_tone1.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift2_tone2.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift2_tone3.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift2_tone4.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift2_tone5.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift2_tone6.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift2_tone7.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift3_tone1.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift3_tone2.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift3_tone3.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift3_tone4.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift3_tone5.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift3_tone6.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift3_tone7.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift4_tone1.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift4_tone2.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift4_tone3.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift4_tone4.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift4_tone5.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift4_tone6.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift4_tone7.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift5_tone1.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift5_tone2.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift5_tone3.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift5_tone4.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift5_tone5.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift5_tone6.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift5_tone7.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift6_tone10.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift6_tone11.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift6_tone12.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift6_tone13.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift6_tone7.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift6_tone8.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_gift6_tone9.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone1.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone10.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone11.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone12.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone13.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone14.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone15.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone16.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone17.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone18.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone19.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone2.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone20.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone3.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone4.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone5.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone6.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone7.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone8.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_ik_tone9.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_wait_beach1.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_wait_beach2.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_wait_bed1.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_wait_bed2.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_wait_chair1.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_wait_chair2.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_wait_table1.opus",
+        "event/sirius/tianlangxing_dorm3d_tone1/drom3d_sirus_wait_table2.opus"
+      ],
+      "cues": [
+        "drom3d_sirus_hello1",
+        "drom3d_sirus_hello10",
+        "drom3d_sirus_hello11",
+        "drom3d_sirus_hello12",
+        "drom3d_sirus_hello13",
+        "drom3d_sirus_hello14",
+        "drom3d_sirus_hello15",
+        "drom3d_sirus_hello2",
+        "drom3d_sirus_hello3",
+        "drom3d_sirus_hello4",
+        "drom3d_sirus_hello5",
+        "drom3d_sirus_hello6",
+        "drom3d_sirus_hello7",
+        "drom3d_sirus_hello8",
+        "drom3d_sirus_hello9",
+        "drom3d_sirus_ik_gift1_tone1",
+        "drom3d_sirus_ik_gift1_tone2",
+        "drom3d_sirus_ik_gift1_tone3",
+        "drom3d_sirus_ik_gift1_tone4",
+        "drom3d_sirus_ik_gift1_tone5",
+        "drom3d_sirus_ik_gift1_tone6",
+        "drom3d_sirus_ik_gift1_tone7",
+        "drom3d_sirus_ik_gift2_tone1",
+        "drom3d_sirus_ik_gift2_tone2",
+        "drom3d_sirus_ik_gift2_tone3",
+        "drom3d_sirus_ik_gift2_tone4",
+        "drom3d_sirus_ik_gift2_tone5",
+        "drom3d_sirus_ik_gift2_tone6",
+        "drom3d_sirus_ik_gift2_tone7",
+        "drom3d_sirus_ik_gift3_tone1",
+        "drom3d_sirus_ik_gift3_tone2",
+        "drom3d_sirus_ik_gift3_tone3",
+        "drom3d_sirus_ik_gift3_tone4",
+        "drom3d_sirus_ik_gift3_tone5",
+        "drom3d_sirus_ik_gift3_tone6",
+        "drom3d_sirus_ik_gift3_tone7",
+        "drom3d_sirus_ik_gift4_tone1",
+        "drom3d_sirus_ik_gift4_tone2",
+        "drom3d_sirus_ik_gift4_tone3",
+        "drom3d_sirus_ik_gift4_tone4",
+        "drom3d_sirus_ik_gift4_tone5",
+        "drom3d_sirus_ik_gift4_tone6",
+        "drom3d_sirus_ik_gift4_tone7",
+        "drom3d_sirus_ik_gift5_tone1",
+        "drom3d_sirus_ik_gift5_tone2",
+        "drom3d_sirus_ik_gift5_tone3",
+        "drom3d_sirus_ik_gift5_tone4",
+        "drom3d_sirus_ik_gift5_tone5",
+        "drom3d_sirus_ik_gift5_tone6",
+        "drom3d_sirus_ik_gift5_tone7",
+        "drom3d_sirus_ik_gift6_tone10",
+        "drom3d_sirus_ik_gift6_tone11",
+        "drom3d_sirus_ik_gift6_tone12",
+        "drom3d_sirus_ik_gift6_tone13",
+        "drom3d_sirus_ik_gift6_tone7",
+        "drom3d_sirus_ik_gift6_tone8",
+        "drom3d_sirus_ik_gift6_tone9",
+        "drom3d_sirus_ik_tone1",
+        "drom3d_sirus_ik_tone10",
+        "drom3d_sirus_ik_tone11",
+        "drom3d_sirus_ik_tone12",
+        "drom3d_sirus_ik_tone13",
+        "drom3d_sirus_ik_tone14",
+        "drom3d_sirus_ik_tone15",
+        "drom3d_sirus_ik_tone16",
+        "drom3d_sirus_ik_tone17",
+        "drom3d_sirus_ik_tone18",
+        "drom3d_sirus_ik_tone19",
+        "drom3d_sirus_ik_tone2",
+        "drom3d_sirus_ik_tone20",
+        "drom3d_sirus_ik_tone3",
+        "drom3d_sirus_ik_tone4",
+        "drom3d_sirus_ik_tone5",
+        "drom3d_sirus_ik_tone6",
+        "drom3d_sirus_ik_tone7",
+        "drom3d_sirus_ik_tone8",
+        "drom3d_sirus_ik_tone9",
+        "drom3d_sirus_wait_beach1",
+        "drom3d_sirus_wait_beach2",
+        "drom3d_sirus_wait_bed1",
+        "drom3d_sirus_wait_bed2",
+        "drom3d_sirus_wait_chair1",
+        "drom3d_sirus_wait_chair2",
+        "drom3d_sirus_wait_table1",
+        "drom3d_sirus_wait_table2"
+      ]
     }
   }
 }
