@@ -136712,6 +136712,642 @@
         "drom3d_sirus_wait_table1",
         "drom3d_sirus_wait_table2"
       ]
+    },
+    "sfx_aircraft_fly_loop": {
+      "size": 638272,
+      "md5": "9b4f425bcf45811af34c01d1de5338c6",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_aircraft_fly_loop/SFX_aircraft_fly_loop.opus"
+      ],
+      "cues": [
+        "SFX_aircraft_fly_loop"
+      ]
+    },
+    "sfx_aircraft_water_impact": {
+      "size": 518208,
+      "md5": "ef17e09890121e59ebfc87b34682971e",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_aircraft_water_impact/SFX_aircraft_water_impact.opus"
+      ],
+      "cues": [
+        "SFX_aircraft_water_impact"
+      ]
+    },
+    "sfx_alarm_red_alert": {
+      "size": 47424,
+      "md5": "15df3f10583b531adb6f5ee843829b2b",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_alarm_red_alert/SFX_alarm_red_alert.opus"
+      ],
+      "cues": [
+        "SFX_alarm_red_alert"
+      ]
+    },
+    "sfx_amb_beach_waves": {
+      "size": 94272,
+      "md5": "ca544fa09f9414df07fbfa1490871536",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_amb_beach_waves/SFX_Amb_Beach_Waves.opus"
+      ],
+      "cues": [
+        "SFX_Amb_Beach_Waves"
+      ]
+    },
+    "sfx_bus_brake_skid": {
+      "size": 191008,
+      "md5": "54fd08a9d1e5e0334ab689315c516be6",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_bus_brake_skid/SFX_bus_brake_skid.opus"
+      ],
+      "cues": [
+        "SFX_bus_brake_skid"
+      ]
+    },
+    "sfx_bus_depart": {
+      "size": 89376,
+      "md5": "f9ee7155190bb5ca8881c897c88f6151",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_bus_depart/SFX_bus_depart.opus"
+      ],
+      "cues": [
+        "SFX_bus_depart"
+      ]
+    },
+    "sfx_card_insert_mechanical": {
+      "size": 11840,
+      "md5": "575604f8d0fbd97335ecbbc8e557812c",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_card_insert_mechanical/SFX_card_insert_mechanical.opus"
+      ],
+      "cues": [
+        "SFX_card_insert_mechanical"
+      ]
+    },
+    "sfx_character_landing": {
+      "size": 8000,
+      "md5": "02c93aa0197763594969536228ba5958",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_character_landing/SFX_character_landing.opus"
+      ],
+      "cues": [
+        "SFX_character_landing"
+      ]
+    },
+    "sfx_construction_metal_hit": {
+      "size": 164672,
+      "md5": "7324da508f14a2907d6de4298ae45144",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_construction_metal_hit/SFX_construction_metal_hit.opus"
+      ],
+      "cues": [
+        "SFX_construction_metal_hit"
+      ]
+    },
+    "sfx_door_sliding_metal_open": {
+      "size": 23616,
+      "md5": "98b55abd23fb4b31ccec4a31ca12440f",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_door_sliding_metal_open/SFX_door_sliding_metal_open.opus"
+      ],
+      "cues": [
+        "SFX_door_sliding_metal_open"
+      ]
+    },
+    "sfx_door_wood_squeak": {
+      "size": 14912,
+      "md5": "37dcf5a6f597a18173e7579a915f8193",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_door_wood_squeak/SFX_door_wood_squeak.opus"
+      ],
+      "cues": [
+        "SFX_door_wood_squeak"
+      ]
+    },
+    "sfx_elevator_descend_loop": {
+      "size": 352800,
+      "md5": "99faf8139e662c9dac1b6f19b4f04d8e",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_elevator_descend_loop/SFX_elevator_descend_loop.opus"
+      ],
+      "cues": [
+        "SFX_elevator_descend_loop"
+      ]
+    },
+    "sfx_elevator_gate_open": {
+      "size": 322112,
+      "md5": "755db280a636303940b6132890ed77e1",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_elevator_gate_open/SFX_elevator_gate_open.opus"
+      ],
+      "cues": [
+        "SFX_elevator_gate_open"
+      ]
+    },
+    "sfx_footsteps_grass_1": {
+      "size": 7232,
+      "md5": "64c3ad5121cab6ff41bb074230418d2e",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_footsteps_grass_1/SFX_footsteps_grass_1.opus"
+      ],
+      "cues": [
+        "SFX_footsteps_grass_1"
+      ]
+    },
+    "sfx_footsteps_grass_2": {
+      "size": 7232,
+      "md5": "73891dff35b1a43a0928fb0fa31ee4c4",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_footsteps_grass_2/SFX_footsteps_grass_2.opus"
+      ],
+      "cues": [
+        "SFX_footsteps_grass_2"
+      ]
+    },
+    "sfx_footsteps_sneak": {
+      "size": 7232,
+      "md5": "772b5decc990797e92bf64ffe12c0589",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_footsteps_sneak/SFX_footsteps_sneak.opus"
+      ],
+      "cues": [
+        "SFX_footsteps_sneak"
+      ]
+    },
+    "sfx_footsteps_stone": {
+      "size": 7232,
+      "md5": "4df92c0c38c382b9c7c2b77a785c6554",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_footsteps_stone/SFX_footsteps_stone.opus"
+      ],
+      "cues": [
+        "SFX_footsteps_stone"
+      ]
+    },
+    "sfx_ft_sand_rel_01": {
+      "size": 5824,
+      "md5": "520dc8717455032c3afd401f2362e6b4",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_rel_01/SFX_FT_Sand_Rel_01.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Rel_01"
+      ]
+    },
+    "sfx_ft_sand_rel_02": {
+      "size": 5984,
+      "md5": "8fdc06ccdac109a0162f539c0636134d",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_rel_02/SFX_FT_Sand_Rel_02.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Rel_02"
+      ]
+    },
+    "sfx_ft_sand_rel_03": {
+      "size": 5984,
+      "md5": "30a1424ae943ce35e416514638e4de29",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_rel_03/SFX_FT_Sand_Rel_03.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Rel_03"
+      ]
+    },
+    "sfx_ft_sand_rel_04": {
+      "size": 6336,
+      "md5": "aa9a53ce5c03b7d1b19a5fd5245db495",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_rel_04/SFX_FT_Sand_Rel_04.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Rel_04"
+      ]
+    },
+    "sfx_ft_sand_rel_05": {
+      "size": 6496,
+      "md5": "749e4f1381b2e95613dd99e0816f0e13",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_rel_05/SFX_FT_Sand_Rel_05.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Rel_05"
+      ]
+    },
+    "sfx_ft_sand_rel_06": {
+      "size": 5824,
+      "md5": "dde164d315090076d22bb077d2cb3cce",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_rel_06/SFX_FT_Sand_Rel_06.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Rel_06"
+      ]
+    },
+    "sfx_ft_sand_rel_07": {
+      "size": 5984,
+      "md5": "2506d7052d120a9195953826105370dd",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_rel_07/SFX_FT_Sand_Rel_07.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Rel_07"
+      ]
+    },
+    "sfx_ft_sand_slide_hard_01": {
+      "size": 6368,
+      "md5": "9acf7508e98fd8b3c1e215f7977c99b7",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_hard_01/SFX_FT_Sand_Slide_Hard_01.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Hard_01"
+      ]
+    },
+    "sfx_ft_sand_slide_hard_02": {
+      "size": 5856,
+      "md5": "31e5f23be3c7a0e2c74cde789a3e9d83",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_hard_02/SFX_FT_Sand_Slide_Hard_02.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Hard_02"
+      ]
+    },
+    "sfx_ft_sand_slide_hard_03": {
+      "size": 6176,
+      "md5": "462ab22c4aaa247a096ee66baf10022c",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_hard_03/SFX_FT_Sand_Slide_Hard_03.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Hard_03"
+      ]
+    },
+    "sfx_ft_sand_slide_hard_04": {
+      "size": 6016,
+      "md5": "56342c4f75d67f6a9025f3db1765461f",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_hard_04/SFX_FT_Sand_Slide_Hard_04.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Hard_04"
+      ]
+    },
+    "sfx_ft_sand_slide_hard_05": {
+      "size": 6368,
+      "md5": "807ef62da0fab155055633c53e907880",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_hard_05/SFX_FT_Sand_Slide_Hard_05.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Hard_05"
+      ]
+    },
+    "sfx_ft_sand_slide_hard_06": {
+      "size": 5856,
+      "md5": "532a92ad93e20812f706b6e131b049c3",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_hard_06/SFX_FT_Sand_Slide_Hard_06.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Hard_06"
+      ]
+    },
+    "sfx_ft_sand_slide_long_01": {
+      "size": 13664,
+      "md5": "661960b6229071ec70d2766e29cc6a76",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_long_01/SFX_FT_Sand_Slide_Long_01.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Long_01"
+      ]
+    },
+    "sfx_ft_sand_slide_long_02": {
+      "size": 15520,
+      "md5": "a2b0fe64862f7afd099347a81dc122ba",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_long_02/SFX_FT_Sand_Slide_Long_02.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Long_02"
+      ]
+    },
+    "sfx_ft_sand_slide_long_03": {
+      "size": 13504,
+      "md5": "f4b2d87f0c3f8455243421bdbedf2eb4",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_long_03/SFX_FT_Sand_Slide_Long_03.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Long_03"
+      ]
+    },
+    "sfx_ft_sand_slide_long_04": {
+      "size": 14176,
+      "md5": "420abb500a400104a543bc6014df3b04",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_long_04/SFX_FT_Sand_Slide_Long_04.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Long_04"
+      ]
+    },
+    "sfx_ft_sand_slide_long_05": {
+      "size": 15200,
+      "md5": "7aeee5df6cdf2369b29033c99ddf6873",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_long_05/SFX_FT_Sand_Slide_Long_05.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Long_05"
+      ]
+    },
+    "sfx_ft_sand_slide_short_01": {
+      "size": 6176,
+      "md5": "e5c2e4518c64823224ad3e8580293376",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_short_01/SFX_FT_Sand_Slide_Short_01.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Short_01"
+      ]
+    },
+    "sfx_ft_sand_slide_short_02": {
+      "size": 6176,
+      "md5": "310d739f0d8475f3147be5cc236d7a99",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_short_02/SFX_FT_Sand_Slide_Short_02.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Short_02"
+      ]
+    },
+    "sfx_ft_sand_slide_short_03": {
+      "size": 6688,
+      "md5": "4307fb8e127110cc2299e4552d7a904b",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_short_03/SFX_FT_Sand_Slide_Short_03.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Short_03"
+      ]
+    },
+    "sfx_ft_sand_slide_short_04": {
+      "size": 6016,
+      "md5": "0942da5ed214bc2b6bb6b20acbcb0e12",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_short_04/SFX_FT_Sand_Slide_Short_04.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Short_04"
+      ]
+    },
+    "sfx_ft_sand_slide_short_05": {
+      "size": 6528,
+      "md5": "f58cf6f8b4a38d4a4846426e37423b5c",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_short_05/SFX_FT_Sand_Slide_Short_05.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Short_05"
+      ]
+    },
+    "sfx_ft_sand_slide_short_06": {
+      "size": 6176,
+      "md5": "904933220f08fbb16206560a405ee3fd",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_short_06/SFX_FT_Sand_Slide_Short_06.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Short_06"
+      ]
+    },
+    "sfx_ft_sand_slide_short_07": {
+      "size": 6368,
+      "md5": "f6fe0f0bcc834a909768b8d531ed34c6",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_short_07/SFX_FT_Sand_Slide_Short_07.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Short_07"
+      ]
+    },
+    "sfx_ft_sand_slide_short_08": {
+      "size": 6016,
+      "md5": "65a58c50628cec83c46c1caf2baebdbf",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ft_sand_slide_short_08/SFX_FT_Sand_Slide_Short_08.opus"
+      ],
+      "cues": [
+        "SFX_FT_Sand_Slide_Short_08"
+      ]
+    },
+    "sfx_ocean_waves_loop": {
+      "size": 909376,
+      "md5": "6a8f2583656d9c5a0c587410bf9fc921",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ocean_waves_loop/SFX_ocean_waves_loop.opus"
+      ],
+      "cues": [
+        "SFX_ocean_waves_loop"
+      ]
+    },
+    "sfx_parachute_open": {
+      "size": 34848,
+      "md5": "9f2750a0b27144b3784d845ab4b6c401",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_parachute_open/SFX_parachute_open.opus"
+      ],
+      "cues": [
+        "SFX_parachute_open"
+      ]
+    },
+    "sfx_phone_button_press": {
+      "size": 19456,
+      "md5": "5b3ba58bc6be80a66be7459aa71116f2",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_phone_button_press/SFX_phone_button_press.opus"
+      ],
+      "cues": [
+        "SFX_phone_button_press"
+      ]
+    },
+    "sfx_screen_static_transition": {
+      "size": 72000,
+      "md5": "a01a38209cce74e364286f6c020f32ad",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_screen_static_transition/SFX_screen_static_transition.opus"
+      ],
+      "cues": [
+        "SFX_screen_static_transition"
+      ]
+    },
+    "sfx_seagull_takeoff": {
+      "size": 19264,
+      "md5": "92246601ea07a8cfef9c91939e35a9c9",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_seagull_takeoff/SFX_seagull_takeoff.opus"
+      ],
+      "cues": [
+        "SFX_seagull_takeoff"
+      ]
+    },
+    "sfx_speedboat_engine_loop": {
+      "size": 427072,
+      "md5": "67e5ba39cb1418f28f846cdfd4c9cf76",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_speedboat_engine_loop/SFX_speedboat_engine_loop.opus"
+      ],
+      "cues": [
+        "SFX_speedboat_engine_loop"
+      ]
+    },
+    "sfx_ui_showcase_highlight": {
+      "size": 17216,
+      "md5": "2a244735c8f251a9931e2caae85a5c7b",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_ui_showcase_highlight/SFX_ui_showcase_highlight.opus"
+      ],
+      "cues": [
+        "SFX_ui_showcase_highlight"
+      ]
+    },
+    "sfx_volleyball_01": {
+      "size": 7168,
+      "md5": "e864072ca3d2cf86b5c002af48a681d9",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_volleyball_01/SFX_Volleyball_01.opus"
+      ],
+      "cues": [
+        "SFX_Volleyball_01"
+      ]
+    },
+    "sfx_volleyball_02": {
+      "size": 7520,
+      "md5": "e0d9f52ebcd20e009414bec96d1ca319",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_volleyball_02/SFX_Volleyball_02.opus"
+      ],
+      "cues": [
+        "SFX_Volleyball_02"
+      ]
+    },
+    "sfx_volleyball_03": {
+      "size": 7168,
+      "md5": "8ce0744791cb6976dddc27529db77ce6",
+      "category": "sfx",
+      "group_key": null,
+      "outputs": [
+        "sfx/sfx_volleyball_03/SFX_Volleyball_03.opus"
+      ],
+      "cues": [
+        "SFX_Volleyball_03"
+      ]
     }
   }
 }
