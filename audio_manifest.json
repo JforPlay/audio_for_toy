@@ -134138,6 +134138,414 @@
       "cues": [
         "drom3d_Taiho_timeline03_voice4"
       ]
+    },
+    "ss-10125-1": {
+      "size": 106528,
+      "md5": "8bfb4ae2765c27833b3f7354a77ae57f",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-10125-1/ss-10125-1-JP.opus"
+      ],
+      "cues": [
+        "ss-10125-1-JP"
+      ]
+    },
+    "ss-10205-1": {
+      "size": 155424,
+      "md5": "369ad2b6fd6e460ac919eabd04b0c468",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-10205-1/ss-10205-1-JP.opus"
+      ],
+      "cues": [
+        "ss-10205-1-JP"
+      ]
+    },
+    "ss-10213-1": {
+      "size": 150304,
+      "md5": "19fac502b3e8b6029015591a519c6470",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-10213-1/ss-10213-1-JP.opus"
+      ],
+      "cues": [
+        "ss-10213-1-JP"
+      ]
+    },
+    "ss-10324-1": {
+      "size": 124704,
+      "md5": "c8933521116991993b436f688b6521cd",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-10324-1/ss-10324-1-JP.opus"
+      ],
+      "cues": [
+        "ss-10324-1-JP"
+      ]
+    },
+    "ss-10517-1": {
+      "size": 143392,
+      "md5": "08daa22f3903e73ac94453877ba45dc5",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-10517-1/ss-10517-1-JP.opus"
+      ],
+      "cues": [
+        "ss-10517-1-JP"
+      ]
+    },
+    "ss-10710-1": {
+      "size": 168224,
+      "md5": "2bbb93d1da0fd2ed4dc608bfc7b92dd3",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-10710-1/ss-10710-1-JP.opus"
+      ],
+      "cues": [
+        "ss-10710-1-JP"
+      ]
+    },
+    "ss-10730-1": {
+      "size": 138272,
+      "md5": "40c719b9121627d1dbc55d09cc1812ba",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-10730-1/ss-10730-1-JP.opus"
+      ],
+      "cues": [
+        "ss-10730-1-JP"
+      ]
+    },
+    "ss-20135-1": {
+      "size": 108832,
+      "md5": "945a51e2cb8861c1ec205e32ba74f648",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-20135-1/ss-20135-1-JP.opus"
+      ],
+      "cues": [
+        "ss-20135-1-JP"
+      ]
+    },
+    "ss-20707-1": {
+      "size": 123936,
+      "md5": "40817519a5c7c14b014bb4b057838aee",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-20707-1/ss-20707-1-JP.opus"
+      ],
+      "cues": [
+        "ss-20707-1-JP"
+      ]
+    },
+    "ss-30319-1": {
+      "size": 159008,
+      "md5": "2792ed451b50f423074d8993f883f191",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-30319-1/ss-30319-1-JP.opus"
+      ],
+      "cues": [
+        "ss-30319-1-JP"
+      ]
+    },
+    "ss-30510-1": {
+      "size": 111392,
+      "md5": "188d833997873c90526c3119ecb2fa90",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-30510-1/ss-30510-1-JP.opus"
+      ],
+      "cues": [
+        "ss-30510-1-JP"
+      ]
+    },
+    "ss-31901-1": {
+      "size": 206112,
+      "md5": "df5ab3cb5d5893c2d860f88f83c8ed00",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-31901-1/ss-31901-1-JP.opus"
+      ],
+      "cues": [
+        "ss-31901-1-JP"
+      ]
+    },
+    "ss-39906-1": {
+      "size": 159520,
+      "md5": "93462ed275e388c8441d27525412a107",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-39906-1/ss-39906-1-JP.opus"
+      ],
+      "cues": [
+        "ss-39906-1-JP"
+      ]
+    },
+    "ss-40152-1": {
+      "size": 101920,
+      "md5": "b243ec3c6ff225dd05cc043702b9b277",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-40152-1/ss-40152-1-JP.opus"
+      ],
+      "cues": [
+        "ss-40152-1-JP"
+      ]
+    },
+    "ss-40207-1": {
+      "size": 131360,
+      "md5": "1ec6313e4a35575b8980e40b7cc58212",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-40207-1/ss-40207-1-JP.opus"
+      ],
+      "cues": [
+        "ss-40207-1-JP"
+      ]
+    },
+    "ss-40211-1": {
+      "size": 115744,
+      "md5": "0e39be159a7a7dcad470b0af9c62f590",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-40211-1/ss-40211-1-JP.opus"
+      ],
+      "cues": [
+        "ss-40211-1-JP"
+      ]
+    },
+    "ss-40314-1": {
+      "size": 120352,
+      "md5": "ea10e8c17a48345610804fb41b548a05",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-40314-1/ss-40314-1-JP.opus"
+      ],
+      "cues": [
+        "ss-40314-1-JP"
+      ]
+    },
+    "ss-50207-1": {
+      "size": 112160,
+      "md5": "678254bffeb2051f6b3e32229d15022a",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-50207-1/ss-50207-1-CN.opus"
+      ],
+      "cues": [
+        "ss-50207-1-CN"
+      ]
+    },
+    "ss-50207-2": {
+      "size": 132384,
+      "md5": "51e073c27350feecff7c55323c0b357e",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-50207-2/ss-50207-2-JP.opus"
+      ],
+      "cues": [
+        "ss-50207-2-JP"
+      ]
+    },
+    "ss-50601-1": {
+      "size": 118560,
+      "md5": "78ab0d54ddf02a18400165bc80c02890",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-50601-1/ss-50601-1-CN.opus"
+      ],
+      "cues": [
+        "ss-50601-1-CN"
+      ]
+    },
+    "ss-50601-2": {
+      "size": 146720,
+      "md5": "8491c3b00d672370ca091ebab3bf6b13",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-50601-2/ss-50601-2-JP.opus"
+      ],
+      "cues": [
+        "ss-50601-2-JP"
+      ]
+    },
+    "ss-50602-1": {
+      "size": 142368,
+      "md5": "9abaf7a49197af62adfe45e323922c8d",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-50602-1/ss-50602-1-CN.opus"
+      ],
+      "cues": [
+        "ss-50602-1-CN"
+      ]
+    },
+    "ss-50602-2": {
+      "size": 207136,
+      "md5": "0c9b44d1d42008a32a3e63991b4576ea",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-50602-2/ss-50602-2-JP.opus"
+      ],
+      "cues": [
+        "ss-50602-2-JP"
+      ]
+    },
+    "ss-51901-1": {
+      "size": 136480,
+      "md5": "f0ac16233aab91137991aafb12694840",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-51901-1/ss-51901-1-CN.opus"
+      ],
+      "cues": [
+        "ss-51901-1-CN"
+      ]
+    },
+    "ss-51901-2": {
+      "size": 163104,
+      "md5": "d4637bec80a8bf616c5e6ce20168f056",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-51901-2/ss-51901-2-JP.opus"
+      ],
+      "cues": [
+        "ss-51901-2-JP"
+      ]
+    },
+    "ss-59901-1": {
+      "size": 83232,
+      "md5": "1959db091fd83f0d063fb2f2bbe0e528",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-59901-1/ss-59901-1-CN.opus"
+      ],
+      "cues": [
+        "ss-59901-1-CN"
+      ]
+    },
+    "ss-59901-2": {
+      "size": 55584,
+      "md5": "4687c90c891d3a3f7ffe06c4946bb2fd",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-59901-2/ss-59901-2-JP.opus"
+      ],
+      "cues": [
+        "ss-59901-2-JP"
+      ]
+    },
+    "ss-70207-1": {
+      "size": 172576,
+      "md5": "8e70e9ccc281bf63163b8ef10972cc9d",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-70207-1/ss-70207-1-JP.opus"
+      ],
+      "cues": [
+        "ss-70207-1-JP"
+      ]
+    },
+    "ss-90107-1": {
+      "size": 114720,
+      "md5": "3aab12ae6dcf510a6682d4b6e417cdce",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-90107-1/ss-90107-1-JP.opus"
+      ],
+      "cues": [
+        "ss-90107-1-JP"
+      ]
+    },
+    "ss-960001-1": {
+      "size": 94240,
+      "md5": "212f7518c982ce83bbe2fd3e69d17c26",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-960001-1/ss-960001-1-JP.opus"
+      ],
+      "cues": [
+        "ss-960001-1-JP"
+      ]
+    },
+    "ss-960003-1": {
+      "size": 276768,
+      "md5": "4963e02ae3d8d750dcbcb45872334521",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-960003-1/ss-960003-1-JP.opus"
+      ],
+      "cues": [
+        "ss-960003-1-JP"
+      ]
+    },
+    "ss-960004-1": {
+      "size": 189984,
+      "md5": "1e2c389f4d3fb6f0df85300f67be1449",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-960004-1/ss-960004-1-JP.opus"
+      ],
+      "cues": [
+        "ss-960004-1-JP"
+      ]
+    },
+    "ss-960008-1": {
+      "size": 173344,
+      "md5": "a4d6e4d2335cfb5a8231d3b0fcd0764a",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-960008-1/ss-960008-1-JP.opus"
+      ],
+      "cues": [
+        "ss-960008-1-JP"
+      ]
+    },
+    "ss-960010-1": {
+      "size": 75040,
+      "md5": "b0d668114efff9a217087a4b3d6e12e8",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-960010-1/ss-960010-1-JP.opus"
+      ],
+      "cues": [
+        "ss-960010-1-JP"
+      ]
     }
   }
 }
