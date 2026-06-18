@@ -12709,6 +12709,19 @@
     "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/touch_2_1.opus",
     "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/touch_head_1.opus"
   },
+  "1101012": {
+    "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/detail_2.opus",
+    "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/feeling5_2.opus",
+    "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/get_2.opus",
+    "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/home_2.opus",
+    "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/login_2.opus",
+    "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/main_1_2.opus",
+    "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/main_2_2.opus",
+    "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/main_3_2.opus",
+    "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/touch_1_2.opus",
+    "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/touch_2_2.opus",
+    "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110101/touch_head_2.opus"
+  },
   "1102010": {
     "hp_warning": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110201/hp.opus",
     "couple_encourage1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/110201/link1.opus",
@@ -17310,6 +17323,7 @@
     "skill": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/skill.opus",
     "battle": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/warcry.opus",
     "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/detail.opus",
+    "detail_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/detail_ex1100.opus",
     "expedition": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/expedition.opus",
     "extra": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/extra.opus",
     "feeling1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/feeling1.opus",
@@ -17317,21 +17331,32 @@
     "feeling3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/feeling3.opus",
     "feeling4": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/feeling4.opus",
     "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/feeling5.opus",
+    "feeling5_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/feeling5_ex1100.opus",
     "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/get.opus",
     "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/home.opus",
+    "home_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/home_ex1100.opus",
     "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/login.opus",
+    "login_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/login_ex1100.opus",
     "mail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/mail.opus",
     "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/main_1.opus",
     "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/main_2.opus",
     "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/main_3.opus",
+    "main4_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/main_4_ex1100.opus",
+    "main5_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/main_5_ex1100.opus",
+    "main6_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/main_6_ex1100.opus",
     "mission_complete": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/mission_complete.opus",
+    "mission_complete_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/mission_complete_ex1100.opus",
     "gift_dislike": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/present_dislike.opus",
     "gift_prefer": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/present_like.opus",
     "profile": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/profile.opus",
     "propose": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/propose.opus",
     "mission": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/task.opus",
     "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_1.opus",
+    "touch_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_1_ex1100.opus",
     "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_2.opus",
+    "touch2_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_2_ex1100.opus",
+    "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_head.opus",
+    "headtouch_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_head_ex1100.opus",
     "upgrade": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/upgrade.opus"
   },
   "202204": {
@@ -17349,6 +17374,19 @@
     "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_1_4.opus",
     "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_2_4.opus",
     "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_head_4.opus"
+  },
+  "202208": {
+    "battle": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/warcry_8.opus",
+    "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/feeling5_8.opus",
+    "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/get_8.opus",
+    "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/home_8.opus",
+    "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/login_8.opus",
+    "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/main_1_8.opus",
+    "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/main_2_8.opus",
+    "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/main_3_8.opus",
+    "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_1_8.opus",
+    "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_2_8.opus",
+    "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/touch_head_8.opus"
   },
   "202201": {
     "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20220/detail_1.opus",
@@ -25849,6 +25887,19 @@
     "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/touch_1_2.opus",
     "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/touch_2_2.opus"
   },
+  "301898": {
+    "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/detail_8.opus",
+    "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/feeling5_8.opus",
+    "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/get_8.opus",
+    "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/home_8.opus",
+    "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/login_8.opus",
+    "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/main_1_8.opus",
+    "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/main_2_8.opus",
+    "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/main_3_8.opus",
+    "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/touch_1_8.opus",
+    "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/touch_2_8.opus",
+    "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30189/touch_head_8.opus"
+  },
   "301900": {
     "hp_warning": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30190/hp.opus",
     "lose": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30190/lose.opus",
@@ -34102,19 +34153,6 @@
     "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/touch_2_1.opus",
     "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/touch_head_1.opus"
   },
-  "401522": {
-    "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/detail_2.opus",
-    "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/feeling5_2.opus",
-    "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/get_2.opus",
-    "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/home_2.opus",
-    "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/login_2.opus",
-    "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/main_1_2.opus",
-    "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/main_2_2.opus",
-    "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/main_3_2.opus",
-    "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/touch_1_2.opus",
-    "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/touch_2_2.opus",
-    "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40152/touch_head_2.opus"
-  },
   "401990": {
     "hp_warning": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40199/hp.opus",
     "lose": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/40199/lose.opus",
@@ -40931,6 +40969,18 @@
     "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/touch_1_3.opus",
     "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/touch_2_3.opus",
     "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/touch_head_3.opus"
+  },
+  "506018": {
+    "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/feeling5_8.opus",
+    "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/get_8.opus",
+    "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/home_8.opus",
+    "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/login_8.opus",
+    "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/main_1_8.opus",
+    "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/main_2_8.opus",
+    "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/main_3_8.opus",
+    "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/touch_1_8.opus",
+    "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/touch_2_8.opus",
+    "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506012/touch_head_8.opus"
   },
   "506020": {
     "hp_warning": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/506022/hp.opus",
@@ -52528,5 +52578,34 @@
     "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30321/touch_head.opus",
     "headtouch_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30321/touch_head_ex1100.opus",
     "upgrade": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30321/upgrade.opus"
+  },
+  "9701120": {
+    "hp_warning": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/hp.opus",
+    "lose": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/lose.opus",
+    "win_mvp": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/mvp.opus",
+    "skill": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/skill.opus",
+    "battle": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/warcry.opus",
+    "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/detail.opus",
+    "expedition": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/expedition.opus",
+    "feeling1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/feeling1.opus",
+    "feeling2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/feeling2.opus",
+    "feeling3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/feeling3.opus",
+    "feeling4": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/feeling4.opus",
+    "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/feeling5.opus",
+    "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/get.opus",
+    "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/home.opus",
+    "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/login.opus",
+    "mail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/mail.opus",
+    "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/main_1.opus",
+    "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/main_2.opus",
+    "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/main_3.opus",
+    "mission_complete": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/mission_complete.opus",
+    "profile": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/profile.opus",
+    "propose": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/propose.opus",
+    "mission": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/task.opus",
+    "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/touch_1.opus",
+    "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/touch_2.opus",
+    "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/touch_head.opus",
+    "upgrade": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/970112/upgrade.opus"
   }
 }
