@@ -142665,8 +142665,9 @@
       "mtime_ns": 1778796321023841443
     },
     "se-ui": {
-      "size": 4324032,
-      "md5": "110d5e0f79b2a98231f9e3ef1ca26f76",
+      "size": 4500704,
+      "mtime_ns": 1785390725021983373,
+      "md5": "f7d426845b851a5c7f1dd5f16790dd07",
       "category": "misc",
       "group_key": null,
       "outputs": [
@@ -142889,7 +142890,15 @@
         "misc/se-ui/ui-zhengque.opus",
         "misc/se-ui/ui-zhongsheng.opus",
         "misc/se-ui/ui-zhuahuo.opus",
-        "misc/se-ui/ui-zhuanzhu.opus"
+        "misc/se-ui/ui-zhuanzhu.opus",
+        "misc/se-ui/ui_bid.opus",
+        "misc/se-ui/ui_cancel_matching.opus",
+        "misc/se-ui/ui_collapse_popup.opus",
+        "misc/se-ui/ui_countdown.opus",
+        "misc/se-ui/ui_expand_popup.opus",
+        "misc/se-ui/ui_numeric_keypad.opus",
+        "misc/se-ui/ui_reveal_search.opus",
+        "misc/se-ui/ui_start_matching.opus"
       ],
       "cues": [
         "ui-alarm",
@@ -143111,9 +143120,16 @@
         "ui-zhengque",
         "ui-zhongsheng",
         "ui-zhuahuo",
-        "ui-zhuanzhu"
-      ],
-      "mtime_ns": 1778796321056078664
+        "ui-zhuanzhu",
+        "ui_bid",
+        "ui_cancel_matching",
+        "ui_collapse_popup",
+        "ui_countdown",
+        "ui_expand_popup",
+        "ui_numeric_keypad",
+        "ui_reveal_search",
+        "ui_start_matching"
+      ]
     },
     "se-volleyball": {
       "size": 285536,
@@ -160294,6 +160310,331 @@
         "touch_2_ex1100",
         "touch_head",
         "touch_head_ex1100",
+        "upgrade"
+      ]
+    },
+    "bgm-nier-az-story": {
+      "size": 2946848,
+      "mtime_ns": 1785390726489684794,
+      "md5": "d29504f09cb686326e1b87023eb1413f",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/nier-az-story/白日虚像光_AL.opus"
+      ],
+      "cues": [
+        "白日虚像光_AL"
+      ]
+    },
+    "bgm-nier-ruinscity-a-1": {
+      "size": 1509184,
+      "mtime_ns": 1785390726182591020,
+      "md5": "a3806a8597a3cf24d702cd2827627430",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/nier-ruinscity-a-1/1.RuinsCity_A_2mix_Dynamic.opus"
+      ],
+      "cues": [
+        "1.RuinsCity_A_2mix_Dynamic"
+      ]
+    },
+    "bgm-nier-ruinscity-a-2": {
+      "size": 1509184,
+      "mtime_ns": 1785390726139433683,
+      "md5": "0e6ef8c139c2ef54b8108bcc6f4bd279",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/nier-ruinscity-a-2/2.RuinsCity_A_2mix_Quiet.opus"
+      ],
+      "cues": [
+        "2.RuinsCity_A_2mix_Quiet"
+      ]
+    },
+    "bgm-nier-ruinscity-b-1": {
+      "size": 1647168,
+      "mtime_ns": 1785390726159248887,
+      "md5": "bbd40baceaf6c86e9f694eed796aa231",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/nier-ruinscity-b-1/3.Ruinscity_B_2mix_Dynamic.opus"
+      ],
+      "cues": [
+        "3.Ruinscity_B_2mix_Dynamic"
+      ]
+    },
+    "bgm-nier-ruinscity-b-2": {
+      "size": 1641536,
+      "mtime_ns": 1785390726202532175,
+      "md5": "0c7a869ce4246f13493a6c8a8b4a706c",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/nier-ruinscity-b-2/4.Ruinscity_B_2mix_Quiet.opus"
+      ],
+      "cues": [
+        "4.Ruinscity_B_2mix_Quiet"
+      ]
+    },
+    "cv-1170001-battle": {
+      "size": 127168,
+      "mtime_ns": 1785390728131325402,
+      "md5": "149ba79686affd6d8ff17c9e40771504",
+      "category": "cv",
+      "group_key": "1170001",
+      "outputs": [
+        "voiceline/1170001/hp.opus",
+        "voiceline/1170001/lose.opus",
+        "voiceline/1170001/mvp.opus",
+        "voiceline/1170001/mvp_ex1100.opus",
+        "voiceline/1170001/skill.opus",
+        "voiceline/1170001/warcry.opus",
+        "voiceline/1170001/warcry_ex1100.opus"
+      ],
+      "cues": [
+        "hp",
+        "lose",
+        "mvp",
+        "mvp_ex1100",
+        "skill",
+        "warcry",
+        "warcry_ex1100"
+      ]
+    },
+    "cv-1170001-gift": {
+      "size": 19744,
+      "mtime_ns": 1785390728129163248,
+      "md5": "7a4eecd96498c7c2c44c2fa8b4b755fd",
+      "category": "misc",
+      "group_key": null,
+      "outputs": [
+        "misc/cv-1170001-gift/present_like.opus"
+      ],
+      "cues": [
+        "present_like"
+      ]
+    },
+    "cv-1170001": {
+      "size": 1561984,
+      "mtime_ns": 1785390728200596233,
+      "md5": "3298c0a69d1c74876afd7481d321da81",
+      "category": "cv",
+      "group_key": "1170001",
+      "outputs": [
+        "voiceline/1170001/detail.opus",
+        "voiceline/1170001/detail_1.opus",
+        "voiceline/1170001/detail_ex1100.opus",
+        "voiceline/1170001/expedition.opus",
+        "voiceline/1170001/feeling1.opus",
+        "voiceline/1170001/feeling2.opus",
+        "voiceline/1170001/feeling3.opus",
+        "voiceline/1170001/feeling4.opus",
+        "voiceline/1170001/feeling5.opus",
+        "voiceline/1170001/feeling5_ex1100.opus",
+        "voiceline/1170001/get.opus",
+        "voiceline/1170001/get_1.opus",
+        "voiceline/1170001/home.opus",
+        "voiceline/1170001/home_1.opus",
+        "voiceline/1170001/login.opus",
+        "voiceline/1170001/login_1.opus",
+        "voiceline/1170001/login_ex1100.opus",
+        "voiceline/1170001/mail.opus",
+        "voiceline/1170001/main_1.opus",
+        "voiceline/1170001/main_1_1.opus",
+        "voiceline/1170001/main_2.opus",
+        "voiceline/1170001/main_2_1.opus",
+        "voiceline/1170001/main_3.opus",
+        "voiceline/1170001/main_3_1.opus",
+        "voiceline/1170001/main_4_ex1100.opus",
+        "voiceline/1170001/main_5_ex1100.opus",
+        "voiceline/1170001/main_6_ex1100.opus",
+        "voiceline/1170001/mission_complete.opus",
+        "voiceline/1170001/mission_complete_ex1100.opus",
+        "voiceline/1170001/profile.opus",
+        "voiceline/1170001/propose.opus",
+        "voiceline/1170001/task.opus",
+        "voiceline/1170001/task_ex1100.opus",
+        "voiceline/1170001/touch_1.opus",
+        "voiceline/1170001/touch_1_1.opus",
+        "voiceline/1170001/touch_2.opus",
+        "voiceline/1170001/touch_2_1.opus",
+        "voiceline/1170001/touch_2_ex1100.opus",
+        "voiceline/1170001/touch_head.opus",
+        "voiceline/1170001/touch_head_ex1100.opus",
+        "voiceline/1170001/upgrade.opus"
+      ],
+      "cues": [
+        "detail",
+        "detail_1",
+        "detail_ex1100",
+        "expedition",
+        "feeling1",
+        "feeling2",
+        "feeling3",
+        "feeling4",
+        "feeling5",
+        "feeling5_ex1100",
+        "get",
+        "get_1",
+        "home",
+        "home_1",
+        "login",
+        "login_1",
+        "login_ex1100",
+        "mail",
+        "main_1",
+        "main_1_1",
+        "main_2",
+        "main_2_1",
+        "main_3",
+        "main_3_1",
+        "main_4_ex1100",
+        "main_5_ex1100",
+        "main_6_ex1100",
+        "mission_complete",
+        "mission_complete_ex1100",
+        "profile",
+        "propose",
+        "task",
+        "task_ex1100",
+        "touch_1",
+        "touch_1_1",
+        "touch_2",
+        "touch_2_1",
+        "touch_2_ex1100",
+        "touch_head",
+        "touch_head_ex1100",
+        "upgrade"
+      ]
+    },
+    "cv-1170002-battle": {
+      "size": 210592,
+      "mtime_ns": 1785390728129163248,
+      "md5": "af38a74a74d944cb057451cc44d2cb93",
+      "category": "cv",
+      "group_key": "1170002",
+      "outputs": [
+        "voiceline/1170002/hp.opus",
+        "voiceline/1170002/lose.opus",
+        "voiceline/1170002/mvp.opus",
+        "voiceline/1170002/mvp_ex1100.opus",
+        "voiceline/1170002/skill.opus",
+        "voiceline/1170002/warcry.opus",
+        "voiceline/1170002/warcry_ex1100.opus"
+      ],
+      "cues": [
+        "hp",
+        "lose",
+        "mvp",
+        "mvp_ex1100",
+        "skill",
+        "warcry",
+        "warcry_ex1100"
+      ]
+    },
+    "cv-1170002-gift": {
+      "size": 15168,
+      "mtime_ns": 1785390728131325402,
+      "md5": "f951aba8f468afa2dd19637b477ff050",
+      "category": "misc",
+      "group_key": null,
+      "outputs": [
+        "misc/cv-1170002-gift/present_like.opus"
+      ],
+      "cues": [
+        "present_like"
+      ]
+    },
+    "cv-1170002": {
+      "size": 2217984,
+      "mtime_ns": 1785390728192620203,
+      "md5": "561d019f9b82920a7007493d6c689ef5",
+      "category": "cv",
+      "group_key": "1170002",
+      "outputs": [
+        "voiceline/1170002/detail.opus",
+        "voiceline/1170002/detail_1.opus",
+        "voiceline/1170002/detail_ex1100.opus",
+        "voiceline/1170002/expedition.opus",
+        "voiceline/1170002/feeling1.opus",
+        "voiceline/1170002/feeling2.opus",
+        "voiceline/1170002/feeling3.opus",
+        "voiceline/1170002/feeling4.opus",
+        "voiceline/1170002/feeling5.opus",
+        "voiceline/1170002/feeling5_ex1100.opus",
+        "voiceline/1170002/get.opus",
+        "voiceline/1170002/get_1.opus",
+        "voiceline/1170002/home.opus",
+        "voiceline/1170002/home_1.opus",
+        "voiceline/1170002/login.opus",
+        "voiceline/1170002/login_1.opus",
+        "voiceline/1170002/login_ex1100.opus",
+        "voiceline/1170002/mail.opus",
+        "voiceline/1170002/main_1.opus",
+        "voiceline/1170002/main_1_1.opus",
+        "voiceline/1170002/main_2.opus",
+        "voiceline/1170002/main_2_1.opus",
+        "voiceline/1170002/main_3.opus",
+        "voiceline/1170002/main_3_1.opus",
+        "voiceline/1170002/main_4_ex1100.opus",
+        "voiceline/1170002/main_5_ex1100.opus",
+        "voiceline/1170002/main_6_ex1100.opus",
+        "voiceline/1170002/mission_complete.opus",
+        "voiceline/1170002/mission_complete_ex1100.opus",
+        "voiceline/1170002/profile.opus",
+        "voiceline/1170002/propose.opus",
+        "voiceline/1170002/task.opus",
+        "voiceline/1170002/task_ex1100.opus",
+        "voiceline/1170002/touch_1.opus",
+        "voiceline/1170002/touch_1_1.opus",
+        "voiceline/1170002/touch_2.opus",
+        "voiceline/1170002/touch_2_1.opus",
+        "voiceline/1170002/touch_2_ex1100.opus",
+        "voiceline/1170002/touch_head.opus",
+        "voiceline/1170002/upgrade.opus"
+      ],
+      "cues": [
+        "detail",
+        "detail_1",
+        "detail_ex1100",
+        "expedition",
+        "feeling1",
+        "feeling2",
+        "feeling3",
+        "feeling4",
+        "feeling5",
+        "feeling5_ex1100",
+        "get",
+        "get_1",
+        "home",
+        "home_1",
+        "login",
+        "login_1",
+        "login_ex1100",
+        "mail",
+        "main_1",
+        "main_1_1",
+        "main_2",
+        "main_2_1",
+        "main_3",
+        "main_3_1",
+        "main_4_ex1100",
+        "main_5_ex1100",
+        "main_6_ex1100",
+        "mission_complete",
+        "mission_complete_ex1100",
+        "profile",
+        "propose",
+        "task",
+        "task_ex1100",
+        "touch_1",
+        "touch_1_1",
+        "touch_2",
+        "touch_2_1",
+        "touch_2_ex1100",
+        "touch_head",
         "upgrade"
       ]
     }
