@@ -161235,6 +161235,19 @@
         "touch_head",
         "upgrade"
       ]
+    },
+    "ss-40406-1": {
+      "size": 113184,
+      "mtime_ns": 1786605897631805393,
+      "md5": "c6a304242b1d318f7e388f68522bdc6d",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-40406-1/ss-40406-1-JP.opus"
+      ],
+      "cues": [
+        "ss-40406-1-JP"
+      ]
     }
   }
 }
