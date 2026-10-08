@@ -2431,13 +2431,19 @@
     "feeling3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/feeling3.opus",
     "feeling4": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/feeling4.opus",
     "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/feeling5.opus",
+    "feeling5_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/feeling5_ex1100.opus",
     "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/get.opus",
     "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/home.opus",
+    "home_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/home_ex1100.opus",
     "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/login.opus",
+    "login_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/login_ex1100.opus",
     "mail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/mail.opus",
     "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/main_1.opus",
     "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/main_2.opus",
     "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/main_3.opus",
+    "main4_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/main_4_ex1100.opus",
+    "main5_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/main_5_ex1100.opus",
+    "main6_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/main_6_ex1100.opus",
     "mission_complete": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/mission_complete.opus",
     "gift_dislike": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/present_dislike.opus",
     "gift_prefer": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/present_like.opus",
@@ -2445,8 +2451,11 @@
     "propose": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/propose.opus",
     "mission": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/task.opus",
     "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/touch_1.opus",
+    "touch_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/touch_1_ex1100.opus",
     "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/touch_2.opus",
+    "touch2_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/touch_2_ex1100.opus",
     "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/touch_head.opus",
+    "headtouch_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/touch_head_ex1100.opus",
     "upgrade": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/upgrade.opus",
     "hp_warning": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/hp.opus",
     "couple_encourage1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/link1.opus",
@@ -2467,6 +2476,18 @@
     "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/main_2_1.opus",
     "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/main_3_1.opus",
     "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/touch_2_1.opus"
+  },
+  "101482": {
+    "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/feeling5_2.opus",
+    "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/get_2.opus",
+    "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/home_2.opus",
+    "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/login_2.opus",
+    "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/main_1_2.opus",
+    "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/main_2_2.opus",
+    "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/main_3_2.opus",
+    "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/touch_1_2.opus",
+    "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/touch_2_2.opus",
+    "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10148/touch_head_2.opus"
   },
   "101490": {
     "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/10149/detail.opus",
@@ -19000,6 +19021,19 @@
     "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/touch_2_3.opus",
     "win_mvp": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/mvp_3.opus"
   },
+  "202338": {
+    "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/detail_8.opus",
+    "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/feeling5_8.opus",
+    "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/get_8.opus",
+    "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/home_8.opus",
+    "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/login_8.opus",
+    "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/main_1_8.opus",
+    "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/main_2_8.opus",
+    "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/main_3_8.opus",
+    "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/touch_1_8.opus",
+    "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/touch_2_8.opus",
+    "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20233/touch_head_8.opus"
+  },
   "202340": {
     "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20234/detail.opus",
     "expedition": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/20234/expedition.opus",
@@ -31036,6 +31070,20 @@
     "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/touch_head_2.opus",
     "win_mvp": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/mvp_2.opus"
   },
+  "305138": {
+    "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/detail_8.opus",
+    "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/feeling5_8.opus",
+    "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/get_8.opus",
+    "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/home_8.opus",
+    "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/login_8.opus",
+    "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/main_1_8.opus",
+    "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/main_2_8.opus",
+    "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/main_3_8.opus",
+    "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/touch_1_8.opus",
+    "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/touch_2_8.opus",
+    "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/touch_head_8.opus",
+    "win_mvp": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30513/mvp_8.opus"
+  },
   "305140": {
     "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30514/detail.opus",
     "detail_ex": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30514/detail_ex1100.opus",
@@ -32414,6 +32462,19 @@
     "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/touch_1_5.opus",
     "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/touch_2_5.opus",
     "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/touch_head_5.opus"
+  },
+  "307088": {
+    "feeling5": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/feeling5_8.opus",
+    "unlock": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/get_8.opus",
+    "home": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/home_8.opus",
+    "login": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/login_8.opus",
+    "main1": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/main_1_8.opus",
+    "main2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/main_2_8.opus",
+    "main3": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/main_3_8.opus",
+    "main4": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/main_4_8.opus",
+    "touch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/touch_1_8.opus",
+    "touch2": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/touch_2_8.opus",
+    "headtouch": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30708/touch_head_8.opus"
   },
   "307090": {
     "detail": "https://raw.githubusercontent.com/JforPlay/audio_for_toy/main/voiceline/30709/detail.opus",

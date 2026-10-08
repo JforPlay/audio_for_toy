@@ -5537,9 +5537,9 @@
       "mtime_ns": 1778796323570495127
     },
     "cv-10148": {
-      "size": 2293984,
-      "mtime_ns": 1778796323666842999,
-      "md5": "a87d002a234b405e3b9750e84250396f",
+      "size": 3824864,
+      "mtime_ns": 1791445488640482604,
+      "md5": "0075bfb8a6037dd4ad8eed6a06a302a0",
       "category": "cv",
       "group_key": "10148",
       "outputs": [
@@ -5553,19 +5553,32 @@
         "voiceline/10148/feeling3.opus",
         "voiceline/10148/feeling4.opus",
         "voiceline/10148/feeling5.opus",
+        "voiceline/10148/feeling5_2.opus",
+        "voiceline/10148/feeling5_ex1100.opus",
         "voiceline/10148/get.opus",
         "voiceline/10148/get_1.opus",
+        "voiceline/10148/get_2.opus",
         "voiceline/10148/home.opus",
         "voiceline/10148/home_1.opus",
+        "voiceline/10148/home_2.opus",
+        "voiceline/10148/home_ex1100.opus",
         "voiceline/10148/login.opus",
         "voiceline/10148/login_1.opus",
+        "voiceline/10148/login_2.opus",
+        "voiceline/10148/login_ex1100.opus",
         "voiceline/10148/mail.opus",
         "voiceline/10148/main_1.opus",
         "voiceline/10148/main_1_1.opus",
+        "voiceline/10148/main_1_2.opus",
         "voiceline/10148/main_2.opus",
         "voiceline/10148/main_2_1.opus",
+        "voiceline/10148/main_2_2.opus",
         "voiceline/10148/main_3.opus",
         "voiceline/10148/main_3_1.opus",
+        "voiceline/10148/main_3_2.opus",
+        "voiceline/10148/main_4_ex1100.opus",
+        "voiceline/10148/main_5_ex1100.opus",
+        "voiceline/10148/main_6_ex1100.opus",
         "voiceline/10148/mission_complete.opus",
         "voiceline/10148/present_dislike.opus",
         "voiceline/10148/present_like.opus",
@@ -5573,9 +5586,15 @@
         "voiceline/10148/propose.opus",
         "voiceline/10148/task.opus",
         "voiceline/10148/touch_1.opus",
+        "voiceline/10148/touch_1_2.opus",
+        "voiceline/10148/touch_1_ex1100.opus",
         "voiceline/10148/touch_2.opus",
         "voiceline/10148/touch_2_1.opus",
+        "voiceline/10148/touch_2_2.opus",
+        "voiceline/10148/touch_2_ex1100.opus",
         "voiceline/10148/touch_head.opus",
+        "voiceline/10148/touch_head_2.opus",
+        "voiceline/10148/touch_head_ex1100.opus",
         "voiceline/10148/upgrade.opus"
       ],
       "cues": [
@@ -5589,19 +5608,32 @@
         "feeling3",
         "feeling4",
         "feeling5",
+        "feeling5_2",
+        "feeling5_ex1100",
         "get",
         "get_1",
+        "get_2",
         "home",
         "home_1",
+        "home_2",
+        "home_ex1100",
         "login",
         "login_1",
+        "login_2",
+        "login_ex1100",
         "mail",
         "main_1",
         "main_1_1",
+        "main_1_2",
         "main_2",
         "main_2_1",
+        "main_2_2",
         "main_3",
         "main_3_1",
+        "main_3_2",
+        "main_4_ex1100",
+        "main_5_ex1100",
+        "main_6_ex1100",
         "mission_complete",
         "present_dislike",
         "present_like",
@@ -5609,9 +5641,15 @@
         "propose",
         "task",
         "touch_1",
+        "touch_1_2",
+        "touch_1_ex1100",
         "touch_2",
         "touch_2_1",
+        "touch_2_2",
+        "touch_2_ex1100",
         "touch_head",
+        "touch_head_2",
+        "touch_head_ex1100",
         "upgrade"
       ]
     },
@@ -40501,11 +40539,11 @@
         "skill",
         "warcry"
       ],
-      "mtime_ns": 1785996836082447835
+      "mtime_ns": 1778796326006947978
     },
     "cv-20233": {
       "size": 9808192,
-      "mtime_ns": 1790236306984329622,
+      "mtime_ns": 1791445489050745135,
       "md5": "14e199d903d7050ffb4deba881495757",
       "category": "cv",
       "group_key": "20233",
@@ -66012,7 +66050,7 @@
     },
     "cv-30513-battle": {
       "size": 330592,
-      "mtime_ns": 1790236306610842497,
+      "mtime_ns": 1791445488349707661,
       "md5": "4c7230a8d519294c88f7092bed342bd6",
       "category": "cv",
       "group_key": "30513",
@@ -66045,7 +66083,7 @@
     },
     "cv-30513": {
       "size": 5971808,
-      "mtime_ns": 1790236306886898198,
+      "mtime_ns": 1791445488815744213,
       "md5": "c970c4dde58d5cd4b5fd54e162d3c4a0",
       "category": "cv",
       "group_key": "30513",
@@ -69159,11 +69197,11 @@
         "skill",
         "warcry"
       ],
-      "mtime_ns": 1785996841357537185
+      "mtime_ns": 1778796328188774582
     },
     "cv-30708": {
       "size": 11196224,
-      "mtime_ns": 1790236307098013962,
+      "mtime_ns": 1791445489245883810,
       "md5": "c05d62bb3427b049e41117a4dbdce4f2",
       "category": "cv",
       "group_key": "30708",
@@ -145464,9 +145502,9 @@
       ]
     },
     "se-skin": {
-      "size": 2164352,
-      "mtime_ns": 1785992231660902711,
-      "md5": "f9ec56888be4b00c3f6ca76886b28e0a",
+      "size": 3102656,
+      "mtime_ns": 1791445479791441919,
+      "md5": "b4dba6e0f930960688d0ef62088fdbcf",
       "category": "misc",
       "group_key": null,
       "outputs": [
@@ -145476,7 +145514,16 @@
         "misc/se-skin/skin-90107_2.opus",
         "misc/se-skin/skin-90107_3.opus",
         "misc/se-skin/skin-90107_4.opus",
-        "misc/se-skin/skin-90107_5.opus"
+        "misc/se-skin/skin-90107_5.opus",
+        "misc/se-skin/skin-960003_10.opus",
+        "misc/se-skin/skin-960003_11.opus",
+        "misc/se-skin/skin-960003_12.opus",
+        "misc/se-skin/skin-960003_14.opus",
+        "misc/se-skin/skin-960003_15.opus",
+        "misc/se-skin/skin-960003_6.opus",
+        "misc/se-skin/skin-960003_7.opus",
+        "misc/se-skin/skin-960003_8.opus",
+        "misc/se-skin/skin-960003_9.opus"
       ],
       "cues": [
         "skin-29905_4",
@@ -145485,7 +145532,16 @@
         "skin-90107_2",
         "skin-90107_3",
         "skin-90107_4",
-        "skin-90107_5"
+        "skin-90107_5",
+        "skin-960003_10",
+        "skin-960003_11",
+        "skin-960003_12",
+        "skin-960003_14",
+        "skin-960003_15",
+        "skin-960003_6",
+        "skin-960003_7",
+        "skin-960003_8",
+        "skin-960003_9"
       ]
     },
     "cv-30321-battle": {
@@ -164323,6 +164379,2983 @@
       ],
       "cues": [
         "present_like"
+      ]
+    },
+    "bgm-story-room-implacable": {
+      "size": 724256,
+      "mtime_ns": 1791445477458251989,
+      "md5": "dc986dc1e4c58ba270bcc5e81a16c943",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/story-room-implacable/烹茶聆音_AL.opus"
+      ],
+      "cues": [
+        "烹茶聆音_AL"
+      ]
+    },
+    "dorm3d_implacable_telephone1": {
+      "size": 33728,
+      "mtime_ns": 1791445477390154930,
+      "md5": "636e7eb52b6c5caa319e067049d9eb3f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone1/dorm3d_implacable_telephone1.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone1"
+      ]
+    },
+    "dorm3d_implacable_telephone10": {
+      "size": 87776,
+      "mtime_ns": 1791445479307536065,
+      "md5": "59e42779cb53accc37671f10e8f2398a",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone10/dorm3d_implacable_telephone10.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone10"
+      ]
+    },
+    "dorm3d_implacable_telephone11": {
+      "size": 78944,
+      "mtime_ns": 1791445479959409241,
+      "md5": "135b289caa8a5e881cbf4491f047d7f4",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone11/dorm3d_implacable_telephone11.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone11"
+      ]
+    },
+    "dorm3d_implacable_telephone12": {
+      "size": 33216,
+      "mtime_ns": 1791445479833294831,
+      "md5": "17c416a1fe26724e4ef3d2e4de5682c6",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone12/dorm3d_implacable_telephone12.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone12"
+      ]
+    },
+    "dorm3d_implacable_telephone13": {
+      "size": 63136,
+      "mtime_ns": 1791445480001473024,
+      "md5": "226b5d06295f38b1b5c1f0b8e87b1efb",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone13/dorm3d_implacable_telephone13.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone13"
+      ]
+    },
+    "dorm3d_implacable_telephone14": {
+      "size": 63296,
+      "mtime_ns": 1791445478860354585,
+      "md5": "2e2f1fa037396041ba8dc8e217f7f4ba",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone14/dorm3d_implacable_telephone14.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone14"
+      ]
+    },
+    "dorm3d_implacable_telephone15": {
+      "size": 80128,
+      "mtime_ns": 1791445480175255015,
+      "md5": "2bc733f5db6b0666d8a21dab827dc2e8",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone15/dorm3d_implacable_telephone15.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone15"
+      ]
+    },
+    "dorm3d_implacable_telephone16": {
+      "size": 28448,
+      "mtime_ns": 1791445479856784662,
+      "md5": "1e3cafac48824216f6c8d73407903008",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone16/dorm3d_implacable_telephone16.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone16"
+      ]
+    },
+    "dorm3d_implacable_telephone17": {
+      "size": 48864,
+      "mtime_ns": 1791445481214165535,
+      "md5": "e80ae1de5e7616b34f45363881463469",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone17/dorm3d_implacable_telephone17.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone17"
+      ]
+    },
+    "dorm3d_implacable_telephone18": {
+      "size": 30496,
+      "mtime_ns": 1791445480023385244,
+      "md5": "a91e611e0a840cd1e9a800392e5064aa",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone18/dorm3d_implacable_telephone18.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone18"
+      ]
+    },
+    "dorm3d_implacable_telephone19": {
+      "size": 46816,
+      "mtime_ns": 1791445480183248161,
+      "md5": "64d356e83593e42b199c6a070fca028a",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone19/dorm3d_implacable_telephone19.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone19"
+      ]
+    },
+    "dorm3d_implacable_telephone2": {
+      "size": 55648,
+      "mtime_ns": 1791445480255597688,
+      "md5": "1488d0934315d51ca35695c3fbd7e2ac",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone2/dorm3d_implacable_telephone2.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone2"
+      ]
+    },
+    "dorm3d_implacable_telephone20": {
+      "size": 58560,
+      "mtime_ns": 1791445480308011723,
+      "md5": "e17152f6d1a2f063dba1304c7f44dfcf",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone20/dorm3d_implacable_telephone20.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone20"
+      ]
+    },
+    "dorm3d_implacable_telephone21": {
+      "size": 56000,
+      "mtime_ns": 1791445480814662575,
+      "md5": "b2f4aa4b7f38bd44be2cd1c96282c5de",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone21/dorm3d_implacable_telephone21.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone21"
+      ]
+    },
+    "dorm3d_implacable_telephone22": {
+      "size": 54304,
+      "mtime_ns": 1791445480389385696,
+      "md5": "0aad4eb2d27b0fc3b86ad320eef7a211",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone22/dorm3d_implacable_telephone22.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone22"
+      ]
+    },
+    "dorm3d_implacable_telephone23": {
+      "size": 33216,
+      "mtime_ns": 1791445480504633178,
+      "md5": "bde8fc295744b1ff716f5fbda2ce0e91",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone23/dorm3d_implacable_telephone23.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone23"
+      ]
+    },
+    "dorm3d_implacable_telephone24": {
+      "size": 83712,
+      "mtime_ns": 1791445481066390488,
+      "md5": "ae2a14c5e040e98d2e8c9d9d1ff34c57",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone24/dorm3d_implacable_telephone24.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone24"
+      ]
+    },
+    "dorm3d_implacable_telephone25": {
+      "size": 53792,
+      "mtime_ns": 1791445480892864344,
+      "md5": "641823bfb78ef418ae8e5619fd958c3d",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone25/dorm3d_implacable_telephone25.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone25"
+      ]
+    },
+    "dorm3d_implacable_telephone26": {
+      "size": 46656,
+      "mtime_ns": 1791445480570892050,
+      "md5": "060c2fdbdf67bf361ee0ad199ae97dcf",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone26/dorm3d_implacable_telephone26.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone26"
+      ]
+    },
+    "dorm3d_implacable_telephone27": {
+      "size": 34080,
+      "mtime_ns": 1791445481034439126,
+      "md5": "45deae1249bfd1659532a8660fa385d9",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone27/dorm3d_implacable_telephone27.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone27"
+      ]
+    },
+    "dorm3d_implacable_telephone28": {
+      "size": 44608,
+      "mtime_ns": 1791445480637529726,
+      "md5": "36a9f825b1f848f6c3e6ee3c23babd1a",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone28/dorm3d_implacable_telephone28.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone28"
+      ]
+    },
+    "dorm3d_implacable_telephone29": {
+      "size": 49696,
+      "mtime_ns": 1791445480871473775,
+      "md5": "a75cda9901834433f7f59d4bf1a2a9c2",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone29/dorm3d_implacable_telephone29.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone29"
+      ]
+    },
+    "dorm3d_implacable_telephone3": {
+      "size": 48512,
+      "mtime_ns": 1791445481077677927,
+      "md5": "b44a972462965a0c2d732e6cb7606010",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone3/dorm3d_implacable_telephone3.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone3"
+      ]
+    },
+    "dorm3d_implacable_telephone30": {
+      "size": 59040,
+      "mtime_ns": 1791445481205320191,
+      "md5": "dfaa3e84403aecd3afc662396c9fc5ca",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone30/dorm3d_implacable_telephone30.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone30"
+      ]
+    },
+    "dorm3d_implacable_telephone31": {
+      "size": 47680,
+      "mtime_ns": 1791445481128074818,
+      "md5": "8d947ddb9c5b12f72e44bbd3f13b65c5",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone31/dorm3d_implacable_telephone31.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone31"
+      ]
+    },
+    "dorm3d_implacable_telephone32": {
+      "size": 64992,
+      "mtime_ns": 1791445481417855465,
+      "md5": "a7a31cc8c630e85747a5ca18c0207dd2",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone32/dorm3d_implacable_telephone32.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone32"
+      ]
+    },
+    "dorm3d_implacable_telephone33": {
+      "size": 58720,
+      "mtime_ns": 1791445482032903450,
+      "md5": "08502ff45befe988bb8e84fafce37092",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone33/dorm3d_implacable_telephone33.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone33"
+      ]
+    },
+    "dorm3d_implacable_telephone34": {
+      "size": 39680,
+      "mtime_ns": 1791445481344562708,
+      "md5": "f382b2d21d696868a32e949a6fafa777",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone34/dorm3d_implacable_telephone34.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone34"
+      ]
+    },
+    "dorm3d_implacable_telephone35": {
+      "size": 62272,
+      "mtime_ns": 1791445481757338681,
+      "md5": "df514ead64d622bf1b2129c81b2007d9",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone35/dorm3d_implacable_telephone35.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone35"
+      ]
+    },
+    "dorm3d_implacable_telephone36": {
+      "size": 60576,
+      "mtime_ns": 1791445481973010371,
+      "md5": "ab14bfe413ab66318cd6fdf9c841a82f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone36/dorm3d_implacable_telephone36.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone36"
+      ]
+    },
+    "dorm3d_implacable_telephone37": {
+      "size": 46816,
+      "mtime_ns": 1791445482084798045,
+      "md5": "2586cf57076b15848558697ab14aca47",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone37/dorm3d_implacable_telephone37.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone37"
+      ]
+    },
+    "dorm3d_implacable_telephone38": {
+      "size": 53792,
+      "mtime_ns": 1791445481597581873,
+      "md5": "9bf836c8af1dd7729b37b035fa990681",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone38/dorm3d_implacable_telephone38.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone38"
+      ]
+    },
+    "dorm3d_implacable_telephone39": {
+      "size": 32032,
+      "mtime_ns": 1791445481493670835,
+      "md5": "5a6fd49134f3f0362edc0c4bc80c1bad",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone39/dorm3d_implacable_telephone39.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone39"
+      ]
+    },
+    "dorm3d_implacable_telephone4": {
+      "size": 45120,
+      "mtime_ns": 1791445481817691358,
+      "md5": "e20a909127a4ed1391f7d305dc0e14e1",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone4/dorm3d_implacable_telephone4.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone4"
+      ]
+    },
+    "dorm3d_implacable_telephone40": {
+      "size": 29120,
+      "mtime_ns": 1791445481607104458,
+      "md5": "805e18b8312ff41a6e8e925a66f3a641",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone40/dorm3d_implacable_telephone40.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone40"
+      ]
+    },
+    "dorm3d_implacable_telephone5": {
+      "size": 39680,
+      "mtime_ns": 1791445481854932882,
+      "md5": "a703e8a49d74174bda7a25db0349846f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone5/dorm3d_implacable_telephone5.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone5"
+      ]
+    },
+    "dorm3d_implacable_telephone6": {
+      "size": 51584,
+      "mtime_ns": 1791445482060846694,
+      "md5": "ebe0b7d537bff8303df184945f698078",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone6/dorm3d_implacable_telephone6.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone6"
+      ]
+    },
+    "dorm3d_implacable_telephone7": {
+      "size": 43232,
+      "mtime_ns": 1791445482103652700,
+      "md5": "1950729767093008df53c1bdd57a16b3",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone7/dorm3d_implacable_telephone7.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone7"
+      ]
+    },
+    "dorm3d_implacable_telephone8": {
+      "size": 51904,
+      "mtime_ns": 1791445482304352108,
+      "md5": "e9a42b788dbe9823c2961d735c5db53c",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone8/dorm3d_implacable_telephone8.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone8"
+      ]
+    },
+    "dorm3d_implacable_telephone9": {
+      "size": 46304,
+      "mtime_ns": 1791445482635679146,
+      "md5": "d74d3981aaf95f828bb22a6f9c61ff2b",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_telephone9/dorm3d_implacable_telephone9.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_telephone9"
+      ]
+    },
+    "dorm3d_implacable_tone01": {
+      "size": 12800,
+      "mtime_ns": 1791445482213681810,
+      "md5": "f2c485a9f3ef2982839a0de8ee57b616",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone01/dorm3d_implacable_tone01.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone01"
+      ]
+    },
+    "dorm3d_implacable_tone02": {
+      "size": 13664,
+      "mtime_ns": 1791445482367342927,
+      "md5": "9a0bd1b3c60c875730b15dc3d1cd3fb1",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone02/dorm3d_implacable_tone02.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone02"
+      ]
+    },
+    "dorm3d_implacable_tone03": {
+      "size": 14176,
+      "mtime_ns": 1791445482247752314,
+      "md5": "559b4f7ffccce25816ce4131ef0e559a",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone03/dorm3d_implacable_tone03.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone03"
+      ]
+    },
+    "dorm3d_implacable_tone04": {
+      "size": 14528,
+      "mtime_ns": 1791445482484133663,
+      "md5": "f9197a200c99af7275c059edd403f742",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone04/dorm3d_implacable_tone04.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone04"
+      ]
+    },
+    "dorm3d_implacable_tone05": {
+      "size": 13152,
+      "mtime_ns": 1791445482292047452,
+      "md5": "934b130fe2fade323828b940020bc754",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone05/dorm3d_implacable_tone05.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone05"
+      ]
+    },
+    "dorm3d_implacable_tone06": {
+      "size": 14176,
+      "mtime_ns": 1791445482708923634,
+      "md5": "e5b31f8dd1524b7f313e1a8c753970ab",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone06/dorm3d_implacable_tone06.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone06"
+      ]
+    },
+    "dorm3d_implacable_tone07": {
+      "size": 17568,
+      "mtime_ns": 1791445482533906288,
+      "md5": "98947d89e1a305c7d9d3d1b61a0cc362",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone07/dorm3d_implacable_tone07.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone07"
+      ]
+    },
+    "dorm3d_implacable_tone08": {
+      "size": 14336,
+      "mtime_ns": 1791445482651646714,
+      "md5": "d7c0ba3a1387186aec5fa6d0319e6f99",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone08/dorm3d_implacable_tone08.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone08"
+      ]
+    },
+    "dorm3d_implacable_tone09": {
+      "size": 16032,
+      "mtime_ns": 1791445482687663354,
+      "md5": "502492d4827551a0715ec5d31a0e92ac",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone09/dorm3d_implacable_tone09.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone09"
+      ]
+    },
+    "dorm3d_implacable_tone10": {
+      "size": 14848,
+      "mtime_ns": 1791445482766875617,
+      "md5": "6534cda155880f0b483f3bddab2736c1",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone10/dorm3d_implacable_tone10.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone10"
+      ]
+    },
+    "dorm3d_implacable_tone11": {
+      "size": 14176,
+      "mtime_ns": 1791445482727499210,
+      "md5": "1615f63be0fde3372aa21c4886bab3dd",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone11/dorm3d_implacable_tone11.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone11"
+      ]
+    },
+    "dorm3d_implacable_tone12": {
+      "size": 13504,
+      "mtime_ns": 1791445483059993186,
+      "md5": "fe906fbf017542be927ec1e0dc8b06e1",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone12/dorm3d_implacable_tone12.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone12"
+      ]
+    },
+    "dorm3d_implacable_tone13": {
+      "size": 12640,
+      "mtime_ns": 1791445482792604365,
+      "md5": "4da6052128c275bae2a691bffa478678",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone13/dorm3d_implacable_tone13.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone13"
+      ]
+    },
+    "dorm3d_implacable_tone14": {
+      "size": 17568,
+      "mtime_ns": 1791445482935438525,
+      "md5": "f00a9ee65f402712927a81b3536fc9d0",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone14/dorm3d_implacable_tone14.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone14"
+      ]
+    },
+    "dorm3d_implacable_tone15": {
+      "size": 14336,
+      "mtime_ns": 1791445483048943260,
+      "md5": "b27af9876f2350f68e18db463e3e8957",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone15/dorm3d_implacable_tone15.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone15"
+      ]
+    },
+    "dorm3d_implacable_tone16": {
+      "size": 21824,
+      "mtime_ns": 1791445482881404388,
+      "md5": "b2c7a55a4af177c9d5fdc14b9d45a1e6",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone16/dorm3d_implacable_tone16.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone16"
+      ]
+    },
+    "dorm3d_implacable_tone17": {
+      "size": 16896,
+      "mtime_ns": 1791445483002901382,
+      "md5": "807e0e22d580b462211c3545a97e8074",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone17/dorm3d_implacable_tone17.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone17"
+      ]
+    },
+    "dorm3d_implacable_tone18": {
+      "size": 12320,
+      "mtime_ns": 1791445483084496883,
+      "md5": "8a5b434a1cb420469c749b510f1fc836",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone18/dorm3d_implacable_tone18.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone18"
+      ]
+    },
+    "dorm3d_implacable_tone19": {
+      "size": 13504,
+      "mtime_ns": 1791445483012997477,
+      "md5": "dc88212cc8c95d71f62ccc33eed80a27",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone19/dorm3d_implacable_tone19.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone19"
+      ]
+    },
+    "dorm3d_implacable_tone20": {
+      "size": 14848,
+      "mtime_ns": 1791445478931927616,
+      "md5": "a5f10d7f49368d2300e709a046ad0f07",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone20/dorm3d_implacable_tone20.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone20"
+      ]
+    },
+    "dorm3d_implacable_tone21": {
+      "size": 13504,
+      "mtime_ns": 1791445478975161845,
+      "md5": "bc51209b6b26697a8583122b5da04ca1",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone21/dorm3d_implacable_tone21.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone21"
+      ]
+    },
+    "dorm3d_implacable_tone22": {
+      "size": 17248,
+      "mtime_ns": 1791445478943113703,
+      "md5": "f0707c3d03af43cd16a0c0a82427e7f6",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone22/dorm3d_implacable_tone22.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone22"
+      ]
+    },
+    "dorm3d_implacable_tone23": {
+      "size": 17568,
+      "mtime_ns": 1791445483139171138,
+      "md5": "87a2b44abf0e9cc32a3268ad74a2a898",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone23/dorm3d_implacable_tone23.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone23"
+      ]
+    },
+    "dorm3d_implacable_tone24": {
+      "size": 21824,
+      "mtime_ns": 1791445479027983375,
+      "md5": "4ea3367205b079143e57799dee057378",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone24/dorm3d_implacable_tone24.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone24"
+      ]
+    },
+    "dorm3d_implacable_tone25": {
+      "size": 14688,
+      "mtime_ns": 1791445479005223116,
+      "md5": "b4b03f233533baa4bd450ff56dbefeb7",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone25/dorm3d_implacable_tone25.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone25"
+      ]
+    },
+    "dorm3d_implacable_tone26": {
+      "size": 12640,
+      "mtime_ns": 1791445479058967063,
+      "md5": "96b8f0b63e52c0078f06ae257cf6a911",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone26/dorm3d_implacable_tone26.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone26"
+      ]
+    },
+    "dorm3d_implacable_tone27": {
+      "size": 17760,
+      "mtime_ns": 1791445479134930649,
+      "md5": "368965045a778e716a16f8916c3e2caa",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone27/dorm3d_implacable_tone27.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone27"
+      ]
+    },
+    "dorm3d_implacable_tone28": {
+      "size": 15520,
+      "mtime_ns": 1791445479404565087,
+      "md5": "a4cfad17e443f141312090ea33b9e433",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone28/dorm3d_implacable_tone28.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone28"
+      ]
+    },
+    "dorm3d_implacable_tone29": {
+      "size": 17920,
+      "mtime_ns": 1791445479082500951,
+      "md5": "5be285d430cc529e77f673487a74566c",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone29/dorm3d_implacable_tone29.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone29"
+      ]
+    },
+    "dorm3d_implacable_tone30": {
+      "size": 16224,
+      "mtime_ns": 1791445479280536860,
+      "md5": "e818fddf843fcfcfc6119868f1b9b2c2",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone30/dorm3d_implacable_tone30.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone30"
+      ]
+    },
+    "dorm3d_implacable_tone31": {
+      "size": 15360,
+      "mtime_ns": 1791445479236279564,
+      "md5": "86119fb7e234fe9818d61cb2cb4b990e",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone31/dorm3d_implacable_tone31.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone31"
+      ]
+    },
+    "dorm3d_implacable_tone32": {
+      "size": 17408,
+      "mtime_ns": 1791445479375027508,
+      "md5": "9c56d13b51bbfc1d74ef50b795c20270",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone32/dorm3d_implacable_tone32.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone32"
+      ]
+    },
+    "dorm3d_implacable_tone33": {
+      "size": 15520,
+      "mtime_ns": 1791445479268007346,
+      "md5": "6d96e615bf76966cb63cf56f87c5d08a",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone33/dorm3d_implacable_tone33.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone33"
+      ]
+    },
+    "dorm3d_implacable_tone34": {
+      "size": 14336,
+      "mtime_ns": 1791445479227877864,
+      "md5": "99e90be75f1950e0b2c3655fe05d637a",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone34/dorm3d_implacable_tone34.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone34"
+      ]
+    },
+    "dorm3d_implacable_tone35": {
+      "size": 18432,
+      "mtime_ns": 1791445479372732298,
+      "md5": "a8ada73da605f1d130d17a6e9b4975cf",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone35/dorm3d_implacable_tone35.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone35"
+      ]
+    },
+    "dorm3d_implacable_tone36": {
+      "size": 14336,
+      "mtime_ns": 1791445479501092258,
+      "md5": "d0909d41c9bf5ee9807366c602867b90",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone36/dorm3d_implacable_tone36.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone36"
+      ]
+    },
+    "dorm3d_implacable_tone37": {
+      "size": 14528,
+      "mtime_ns": 1791445479696594175,
+      "md5": "0870e77d325da59ae057d3e5e26bfc80",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone37/dorm3d_implacable_tone37.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone37"
+      ]
+    },
+    "dorm3d_implacable_tone38": {
+      "size": 17408,
+      "mtime_ns": 1791445479532650582,
+      "md5": "20ad56c801d9e35a8392cc3e3a899152",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone38/dorm3d_implacable_tone38.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone38"
+      ]
+    },
+    "dorm3d_implacable_tone39": {
+      "size": 17056,
+      "mtime_ns": 1791445479562905694,
+      "md5": "c41875f04413a3c7ddd6c48a131c478d",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone39/dorm3d_implacable_tone39.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone39"
+      ]
+    },
+    "dorm3d_implacable_tone40": {
+      "size": 19264,
+      "mtime_ns": 1791445479675612871,
+      "md5": "bdc55f1c211c3b1a83aa0707e5a114b7",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone40/dorm3d_implacable_tone40.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone40"
+      ]
+    },
+    "dorm3d_implacable_tone41": {
+      "size": 14688,
+      "mtime_ns": 1791445479821463833,
+      "md5": "8f3d3560c68b5c5fdc2fa3a6a07d6921",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone41/dorm3d_implacable_tone41.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone41"
+      ]
+    },
+    "dorm3d_implacable_tone42": {
+      "size": 17056,
+      "mtime_ns": 1791445479943745291,
+      "md5": "d572544104729104f780ed2f7b9c0f02",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone42/dorm3d_implacable_tone42.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone42"
+      ]
+    },
+    "dorm3d_implacable_tone43": {
+      "size": 15520,
+      "mtime_ns": 1791445479975178742,
+      "md5": "6bc7aac084361f5aeb275bf7106ac5cc",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone43/dorm3d_implacable_tone43.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone43"
+      ]
+    },
+    "dorm3d_implacable_tone44": {
+      "size": 14688,
+      "mtime_ns": 1791445479975406128,
+      "md5": "9339fb04ad1197a99af1c07e61a28a71",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone44/dorm3d_implacable_tone44.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone44"
+      ]
+    },
+    "dorm3d_implacable_tone45": {
+      "size": 15040,
+      "mtime_ns": 1791445479895801390,
+      "md5": "6b2bea3aeb34411f4003adf0cc69acb9",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/dorm3d_implacable_tone45/dorm3d_implacable_tone45.opus"
+      ],
+      "cues": [
+        "dorm3d_implacable_tone45"
+      ]
+    },
+    "drom3d_carwashing_ik_publicgame_tone1": {
+      "size": 45440,
+      "mtime_ns": 1791445480099320129,
+      "md5": "4a55e30eb148f9e0ab65258e201e6e59",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_carwashing_ik_publicgame_tone1/drom3d_carwashing_ik_publicgame_tone1.opus"
+      ],
+      "cues": [
+        "drom3d_carwashing_ik_publicgame_tone1"
+      ]
+    },
+    "drom3d_carwashing_ik_publicgame_tone2": {
+      "size": 63648,
+      "mtime_ns": 1791445480237705421,
+      "md5": "45ae72bc9f7f5298c08cb303dd309608",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_carwashing_ik_publicgame_tone2/drom3d_carwashing_ik_publicgame_tone2.opus"
+      ],
+      "cues": [
+        "drom3d_carwashing_ik_publicgame_tone2"
+      ]
+    },
+    "drom3d_carwashing_ik_publicgame_tone3": {
+      "size": 55136,
+      "mtime_ns": 1791445480195237879,
+      "md5": "f87ddb522b5e132bd2cb04fc4286342d",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_carwashing_ik_publicgame_tone3/drom3d_carwashing_ik_publicgame_tone3.opus"
+      ],
+      "cues": [
+        "drom3d_carwashing_ik_publicgame_tone3"
+      ]
+    },
+    "drom3d_carwashing_ik_publicgame_tone4": {
+      "size": 74880,
+      "mtime_ns": 1791445480363087670,
+      "md5": "6ca0af8fc57a6bb41c13f62e8626b550",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_carwashing_ik_publicgame_tone4/drom3d_carwashing_ik_publicgame_tone4.opus"
+      ],
+      "cues": [
+        "drom3d_carwashing_ik_publicgame_tone4"
+      ]
+    },
+    "drom3d_carwashing_ik_publicgame_tone5": {
+      "size": 55648,
+      "mtime_ns": 1791445480033297710,
+      "md5": "7a010bf6f927cfa18bca25333a158483",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_carwashing_ik_publicgame_tone5/drom3d_carwashing_ik_publicgame_tone5.opus"
+      ],
+      "cues": [
+        "drom3d_carwashing_ik_publicgame_tone5"
+      ]
+    },
+    "drom3d_carwashing_ik_publicgame_tone6": {
+      "size": 42240,
+      "mtime_ns": 1791445480327597103,
+      "md5": "0d433727153334d858513f992ee0d7ed",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_carwashing_ik_publicgame_tone6/drom3d_carwashing_ik_publicgame_tone6.opus"
+      ],
+      "cues": [
+        "drom3d_carwashing_ik_publicgame_tone6"
+      ]
+    },
+    "drom3d_carwashing_ik_publicgame_tone7": {
+      "size": 57696,
+      "mtime_ns": 1791445480389385696,
+      "md5": "56ca5de592bc95e0a356106452376508",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_carwashing_ik_publicgame_tone7/drom3d_carwashing_ik_publicgame_tone7.opus"
+      ],
+      "cues": [
+        "drom3d_carwashing_ik_publicgame_tone7"
+      ]
+    },
+    "drom3d_carwashing_ik_publicgame_tone8": {
+      "size": 56160,
+      "mtime_ns": 1791445480547744912,
+      "md5": "1460aff8401856c70bea21a0bdda07de",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_carwashing_ik_publicgame_tone8/drom3d_carwashing_ik_publicgame_tone8.opus"
+      ],
+      "cues": [
+        "drom3d_carwashing_ik_publicgame_tone8"
+      ]
+    },
+    "drom3d_implacable_freegift_voice1": {
+      "size": 77920,
+      "mtime_ns": 1791445480822655051,
+      "md5": "16057a84f2557c428fea0e2e6f804d6c",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_freegift_voice1/drom3d_implacable_freegift_voice1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_freegift_voice1"
+      ]
+    },
+    "drom3d_implacable_freegift_voice2": {
+      "size": 65856,
+      "mtime_ns": 1791445480590884403,
+      "md5": "f1beba8cbc06f521d88b7756b1858807",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_freegift_voice2/drom3d_implacable_freegift_voice2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_freegift_voice2"
+      ]
+    },
+    "drom3d_implacable_freegift_voice3": {
+      "size": 71136,
+      "mtime_ns": 1791445480712650543,
+      "md5": "9fbebb87c795191cc726af0d0fab23a2",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_freegift_voice3/drom3d_implacable_freegift_voice3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_freegift_voice3"
+      ]
+    },
+    "drom3d_implacable_gift1_voice1": {
+      "size": 74688,
+      "mtime_ns": 1791445481030445206,
+      "md5": "2f78ea246aa416319fc385542c9f15d4",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift1_voice1/drom3d_implacable_gift1_voice1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift1_voice1"
+      ]
+    },
+    "drom3d_implacable_gift1_voice2": {
+      "size": 56672,
+      "mtime_ns": 1791445480874606146,
+      "md5": "bf82eb0a8b8ffa686567a91c5fd9b6db",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift1_voice2/drom3d_implacable_gift1_voice2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift1_voice2"
+      ]
+    },
+    "drom3d_implacable_gift2_voice1": {
+      "size": 42400,
+      "mtime_ns": 1791445481318007460,
+      "md5": "e1a362817b1d7f2cb718efa99f3d2934",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift2_voice1/drom3d_implacable_gift2_voice1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift2_voice1"
+      ]
+    },
+    "drom3d_implacable_gift2_voice2": {
+      "size": 65696,
+      "mtime_ns": 1791445481054408727,
+      "md5": "30202613c0ad2619f977a55c7317cfed",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift2_voice2/drom3d_implacable_gift2_voice2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift2_voice2"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice1": {
+      "size": 63520,
+      "mtime_ns": 1791445481022689507,
+      "md5": "42bcaad2ccbd3677c3dd33493d25f799",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice1/drom3d_implacable_gift_timeline01_voice1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice1"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice10": {
+      "size": 58912,
+      "mtime_ns": 1791445481174226333,
+      "md5": "ed37365c3ac1c3b0395b85d01d959dba",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice10/drom3d_implacable_gift_timeline01_voice10.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice10"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice11": {
+      "size": 75904,
+      "mtime_ns": 1791445481139425818,
+      "md5": "51b75e1a3ea772d08548d2d3cf582cf6",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice11/drom3d_implacable_gift_timeline01_voice11.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice11"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice12": {
+      "size": 65216,
+      "mtime_ns": 1791445481633527155,
+      "md5": "3cb738819a6e7b915951b341b51f02f4",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice12/drom3d_implacable_gift_timeline01_voice12.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice12"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice13": {
+      "size": 49568,
+      "mtime_ns": 1791445481361940581,
+      "md5": "db85796b9de16887bf5db82adba99f46",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice13/drom3d_implacable_gift_timeline01_voice13.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice13"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice14": {
+      "size": 84256,
+      "mtime_ns": 1791445481549654831,
+      "md5": "2d25479f2261c0bf66b9ba5dc8df685a",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice14/drom3d_implacable_gift_timeline01_voice14.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice14"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice15": {
+      "size": 31200,
+      "mtime_ns": 1791445481389866239,
+      "md5": "23d4ae6f2253f49283bbfcfbab8ef80a",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice15/drom3d_implacable_gift_timeline01_voice15.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice15"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice16": {
+      "size": 63008,
+      "mtime_ns": 1791445481769743189,
+      "md5": "4a6af09ab39a5438004f0f65d29b6529",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice16/drom3d_implacable_gift_timeline01_voice16.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice16"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice17": {
+      "size": 74912,
+      "mtime_ns": 1791445481965116019,
+      "md5": "a7e2b4c4f679567f92808780972d350a",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice17/drom3d_implacable_gift_timeline01_voice17.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice17"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice18": {
+      "size": 67936,
+      "mtime_ns": 1791445482156652102,
+      "md5": "d07c3c65724dfbe284648452c7b54f5a",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice18/drom3d_implacable_gift_timeline01_voice18.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice18"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice19": {
+      "size": 57376,
+      "mtime_ns": 1791445481793283962,
+      "md5": "3e2e7c79bc9c38cab4a5bf19630e8cc6",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice19/drom3d_implacable_gift_timeline01_voice19.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice19"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice2": {
+      "size": 48896,
+      "mtime_ns": 1791445481705417719,
+      "md5": "8268890f36bbfad679612b00d1726d6f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice2/drom3d_implacable_gift_timeline01_voice2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice2"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice20": {
+      "size": 38688,
+      "mtime_ns": 1791445481969016451,
+      "md5": "755244b2fadebc35e23360c54349672f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice20/drom3d_implacable_gift_timeline01_voice20.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice20"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice21": {
+      "size": 75392,
+      "mtime_ns": 1791445481841211005,
+      "md5": "1366203d5be0a6e33572acf61347112b",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice21/drom3d_implacable_gift_timeline01_voice21.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice21"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice22": {
+      "size": 88160,
+      "mtime_ns": 1791445482322501477,
+      "md5": "142dab2af0e3741503b75e40d2d5fdf7",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice22/drom3d_implacable_gift_timeline01_voice22.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice22"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice23": {
+      "size": 40224,
+      "mtime_ns": 1791445481948212433,
+      "md5": "3dd614b4c645a31c8ea14b491d6c1d70",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice23/drom3d_implacable_gift_timeline01_voice23.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice23"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice24": {
+      "size": 52288,
+      "mtime_ns": 1791445482144676426,
+      "md5": "2f030fea0a476e5176ac35561dc7fc0b",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice24/drom3d_implacable_gift_timeline01_voice24.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice24"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice25": {
+      "size": 62144,
+      "mtime_ns": 1791445482224514267,
+      "md5": "26fdcce152590418469901bc44a4d92f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice25/drom3d_implacable_gift_timeline01_voice25.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice25"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice26": {
+      "size": 61984,
+      "mtime_ns": 1791445482316327783,
+      "md5": "95d053727e43b91d5e5b765e1776f86f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice26/drom3d_implacable_gift_timeline01_voice26.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice26"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice27": {
+      "size": 83744,
+      "mtime_ns": 1791445482555841305,
+      "md5": "4058d300cb35b0d69e1aebaedccb05b9",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice27/drom3d_implacable_gift_timeline01_voice27.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice27"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice28": {
+      "size": 77632,
+      "mtime_ns": 1791445482372214272,
+      "md5": "4eed16e7774010a281936508f1821903",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice28/drom3d_implacable_gift_timeline01_voice28.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice28"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice29": {
+      "size": 73536,
+      "mtime_ns": 1791445482484133663,
+      "md5": "4a0ab49695c35d40e4ff76997e3853bf",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice29/drom3d_implacable_gift_timeline01_voice29.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice29"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice3": {
+      "size": 56352,
+      "mtime_ns": 1791445482429457074,
+      "md5": "c9ce749f1d45fccbd402afafacb57620",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice3/drom3d_implacable_gift_timeline01_voice3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice3"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice30": {
+      "size": 81536,
+      "mtime_ns": 1791445482731766888,
+      "md5": "c3acbc5ffa814dbc74b4b9833e08d385",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice30/drom3d_implacable_gift_timeline01_voice30.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice30"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice31": {
+      "size": 45984,
+      "mtime_ns": 1791445482591567301,
+      "md5": "441549528624fc0ac038d47d67506a93",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice31/drom3d_implacable_gift_timeline01_voice31.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice31"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice32": {
+      "size": 91904,
+      "mtime_ns": 1791445482655638605,
+      "md5": "a41f4b920a5d715fa8dfed7ded969440",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice32/drom3d_implacable_gift_timeline01_voice32.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice32"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice33": {
+      "size": 45472,
+      "mtime_ns": 1791445482481465666,
+      "md5": "de421f19e342084f89a730ee0532204f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice33/drom3d_implacable_gift_timeline01_voice33.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice33"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice34": {
+      "size": 72864,
+      "mtime_ns": 1791445482811322395,
+      "md5": "c41f4c16bd21bed5a981a909ccd316fa",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice34/drom3d_implacable_gift_timeline01_voice34.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice34"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice4": {
+      "size": 73184,
+      "mtime_ns": 1791445482871200776,
+      "md5": "c5759b0f248f5ac5757d65f4301634e9",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice4/drom3d_implacable_gift_timeline01_voice4.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice4"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice5": {
+      "size": 57888,
+      "mtime_ns": 1791445482974989968,
+      "md5": "89bd005a1b324b814f4fbfdd7d014ffd",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice5/drom3d_implacable_gift_timeline01_voice5.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice5"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice6": {
+      "size": 53312,
+      "mtime_ns": 1791445482815860309,
+      "md5": "518c41e2c1d5168462a925d0b4e573e4",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice6/drom3d_implacable_gift_timeline01_voice6.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice6"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice7": {
+      "size": 50592,
+      "mtime_ns": 1791445482778870612,
+      "md5": "3ee7398b619077b2b244289f5a85a34d",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice7/drom3d_implacable_gift_timeline01_voice7.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice7"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice8": {
+      "size": 73024,
+      "mtime_ns": 1791445483026875258,
+      "md5": "94e8c8c3e3b7175c5a92d43f90b53ff8",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice8/drom3d_implacable_gift_timeline01_voice8.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice8"
+      ]
+    },
+    "drom3d_implacable_gift_timeline01_voice9": {
+      "size": 59072,
+      "mtime_ns": 1791445483095137536,
+      "md5": "fb0a297f665a82dc63b4ef5fec7f0d64",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_gift_timeline01_voice9/drom3d_implacable_gift_timeline01_voice9.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_gift_timeline01_voice9"
+      ]
+    },
+    "drom3d_implacable_hello1": {
+      "size": 62784,
+      "mtime_ns": 1791445482960384967,
+      "md5": "04eda0a5e8cc242d78bbf2b8282aee12",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello1/drom3d_implacable_hello1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello1"
+      ]
+    },
+    "drom3d_implacable_hello10": {
+      "size": 59392,
+      "mtime_ns": 1791445482931496784,
+      "md5": "bf098e969953008c11b0961a726a0ded",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello10/drom3d_implacable_hello10.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello10"
+      ]
+    },
+    "drom3d_implacable_hello11": {
+      "size": 132160,
+      "mtime_ns": 1791445477041658215,
+      "md5": "bce6fcd78d167b275d814eef3934f595",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello11/drom3d_implacable_hello11.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello11"
+      ]
+    },
+    "drom3d_implacable_hello12": {
+      "size": 115680,
+      "mtime_ns": 1791445477225920846,
+      "md5": "7dca33ddebc8647d08271cbedb74be19",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello12/drom3d_implacable_hello12.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello12"
+      ]
+    },
+    "drom3d_implacable_hello13": {
+      "size": 100704,
+      "mtime_ns": 1791445477017623959,
+      "md5": "0617cff9c340e1be0145f9c90b4557a8",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello13/drom3d_implacable_hello13.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello13"
+      ]
+    },
+    "drom3d_implacable_hello14": {
+      "size": 81152,
+      "mtime_ns": 1791445477001601122,
+      "md5": "73e6ec1ad20f8b9a3d76aa6aab8195a1",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello14/drom3d_implacable_hello14.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello14"
+      ]
+    },
+    "drom3d_implacable_hello15": {
+      "size": 112768,
+      "mtime_ns": 1791445483122638075,
+      "md5": "3a4a5a3e24d3e536db032a0b065023b2",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello15/drom3d_implacable_hello15.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello15"
+      ]
+    },
+    "drom3d_implacable_hello2": {
+      "size": 43072,
+      "mtime_ns": 1791445483067547469,
+      "md5": "493a1cf1970a4dce18ad29923e742cad",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello2/drom3d_implacable_hello2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello2"
+      ]
+    },
+    "drom3d_implacable_hello3": {
+      "size": 45280,
+      "mtime_ns": 1791445476921407492,
+      "md5": "8f7bc39005c07b67599b12394c7dd530",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello3/drom3d_implacable_hello3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello3"
+      ]
+    },
+    "drom3d_implacable_hello4": {
+      "size": 59392,
+      "mtime_ns": 1791445477153818078,
+      "md5": "9a349cb34330b8e03f852ae35f3ac2fc",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello4/drom3d_implacable_hello4.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello4"
+      ]
+    },
+    "drom3d_implacable_hello5": {
+      "size": 57344,
+      "mtime_ns": 1791445477005606831,
+      "md5": "bb07897c9830c28fedbbd36f0535080f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello5/drom3d_implacable_hello5.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello5"
+      ]
+    },
+    "drom3d_implacable_hello6": {
+      "size": 76576,
+      "mtime_ns": 1791445477013618250,
+      "md5": "8d61f98b3b0f766e263096093cd6b3be",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello6/drom3d_implacable_hello6.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello6"
+      ]
+    },
+    "drom3d_implacable_hello7": {
+      "size": 75552,
+      "mtime_ns": 1791445477261972231,
+      "md5": "470b7cae0ae0bdc1483f88c9d5dc4071",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello7/drom3d_implacable_hello7.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello7"
+      ]
+    },
+    "drom3d_implacable_hello8": {
+      "size": 105472,
+      "mtime_ns": 1791445477435765431,
+      "md5": "29a3eb60f47b7f0a5162bbdfbd6b8c95",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello8/drom3d_implacable_hello8.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello8"
+      ]
+    },
+    "drom3d_implacable_hello9": {
+      "size": 104288,
+      "mtime_ns": 1791445477191448524,
+      "md5": "64ba169dea90a494ac9363606709eda5",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_hello9/drom3d_implacable_hello9.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_hello9"
+      ]
+    },
+    "drom3d_implacable_ik_furniture1_tone1": {
+      "size": 64480,
+      "mtime_ns": 1791445477225920846,
+      "md5": "efedfe4c4ffbc510a2cb221f767225e6",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture1_tone1/drom3d_implacable_ik_furniture1_tone1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture1_tone1"
+      ]
+    },
+    "drom3d_implacable_ik_furniture1_tone2": {
+      "size": 33568,
+      "mtime_ns": 1791445477110952992,
+      "md5": "b2bbf953a2113d6397b01052c5715659",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture1_tone2/drom3d_implacable_ik_furniture1_tone2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture1_tone2"
+      ]
+    },
+    "drom3d_implacable_ik_furniture1_tone3": {
+      "size": 53120,
+      "mtime_ns": 1791445477346092128,
+      "md5": "64fd0bc4c0fb00c2378a40dafa547a51",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture1_tone3/drom3d_implacable_ik_furniture1_tone3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture1_tone3"
+      ]
+    },
+    "drom3d_implacable_ik_furniture1_tone4": {
+      "size": 35424,
+      "mtime_ns": 1791445477318052162,
+      "md5": "f1bd2ac265551516f6b47cc75c67f2e1",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture1_tone4/drom3d_implacable_ik_furniture1_tone4.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture1_tone4"
+      ]
+    },
+    "drom3d_implacable_ik_furniture1_tone5": {
+      "size": 64000,
+      "mtime_ns": 1791445477506320501,
+      "md5": "f48913d5e9576bcf7f8c1ebddfe27a6b",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture1_tone5/drom3d_implacable_ik_furniture1_tone5.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture1_tone5"
+      ]
+    },
+    "drom3d_implacable_ik_furniture1_tone6": {
+      "size": 61440,
+      "mtime_ns": 1791445477291763352,
+      "md5": "af225eac55c4658bde5b5abd45c24504",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture1_tone6/drom3d_implacable_ik_furniture1_tone6.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture1_tone6"
+      ]
+    },
+    "drom3d_implacable_ik_furniture1_tone7": {
+      "size": 46976,
+      "mtime_ns": 1791445477618480364,
+      "md5": "ce727f0b76087d0311cc8c71f581205f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture1_tone7/drom3d_implacable_ik_furniture1_tone7.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture1_tone7"
+      ]
+    },
+    "drom3d_implacable_ik_furniture1_tone8": {
+      "size": 58560,
+      "mtime_ns": 1791445477451133991,
+      "md5": "30a3aecb2b979235ee65ed308bfd8abc",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture1_tone8/drom3d_implacable_ik_furniture1_tone8.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture1_tone8"
+      ]
+    },
+    "drom3d_implacable_ik_furniture2_tone1": {
+      "size": 54976,
+      "mtime_ns": 1791445477386398585,
+      "md5": "0aab1f2eb7da2c26391a786779bd244e",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture2_tone1/drom3d_implacable_ik_furniture2_tone1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture2_tone1"
+      ]
+    },
+    "drom3d_implacable_ik_furniture2_tone2": {
+      "size": 36448,
+      "mtime_ns": 1791445477456887695,
+      "md5": "2677e21743fc321617df611049b83895",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture2_tone2/drom3d_implacable_ik_furniture2_tone2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture2_tone2"
+      ]
+    },
+    "drom3d_implacable_ik_furniture2_tone3": {
+      "size": 68928,
+      "mtime_ns": 1791445477558394724,
+      "md5": "6c1e34c5b1686616b77cabef56be486b",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture2_tone3/drom3d_implacable_ik_furniture2_tone3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture2_tone3"
+      ]
+    },
+    "drom3d_implacable_ik_furniture2_tone4": {
+      "size": 47488,
+      "mtime_ns": 1791445477584252818,
+      "md5": "38bbf7e658288d015a0a8aff35e5685b",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture2_tone4/drom3d_implacable_ik_furniture2_tone4.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture2_tone4"
+      ]
+    },
+    "drom3d_implacable_ik_furniture2_tone5": {
+      "size": 41536,
+      "mtime_ns": 1791445477698594551,
+      "md5": "b8728ff7f5c0ba7d9b8bbcb3dd8ea267",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture2_tone5/drom3d_implacable_ik_furniture2_tone5.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture2_tone5"
+      ]
+    },
+    "drom3d_implacable_ik_furniture2_tone6": {
+      "size": 37120,
+      "mtime_ns": 1791445477744211383,
+      "md5": "59930407d21872f51bb8b8050603ebf7",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture2_tone6/drom3d_implacable_ik_furniture2_tone6.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture2_tone6"
+      ]
+    },
+    "drom3d_implacable_ik_furniture2_tone7": {
+      "size": 35072,
+      "mtime_ns": 1791445477519570855,
+      "md5": "76b72ed2b5eacd144be20c4fe9063788",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture2_tone7/drom3d_implacable_ik_furniture2_tone7.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture2_tone7"
+      ]
+    },
+    "drom3d_implacable_ik_furniture2_tone8": {
+      "size": 45952,
+      "mtime_ns": 1791445477790725867,
+      "md5": "69fd46691dbd2afed26e35b17d66e27b",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture2_tone8/drom3d_implacable_ik_furniture2_tone8.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture2_tone8"
+      ]
+    },
+    "drom3d_implacable_ik_furniture3_tone1": {
+      "size": 34912,
+      "mtime_ns": 1791445477636484151,
+      "md5": "efb0164a47e790ef11900137f608fe31",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture3_tone1/drom3d_implacable_ik_furniture3_tone1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture3_tone1"
+      ]
+    },
+    "drom3d_implacable_ik_furniture3_tone2": {
+      "size": 33568,
+      "mtime_ns": 1791445477692823035,
+      "md5": "fbf596b634e1b11a8a78b2b43bd820c1",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture3_tone2/drom3d_implacable_ik_furniture3_tone2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture3_tone2"
+      ]
+    },
+    "drom3d_implacable_ik_furniture3_tone3": {
+      "size": 68576,
+      "mtime_ns": 1791445477659356412,
+      "md5": "f33b2e70680af61fbcfa7bf994682e5e",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture3_tone3/drom3d_implacable_ik_furniture3_tone3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture3_tone3"
+      ]
+    },
+    "drom3d_implacable_ik_furniture3_tone4": {
+      "size": 51072,
+      "mtime_ns": 1791445477821042529,
+      "md5": "a1485a740e4205417c5ec325545c6a6f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture3_tone4/drom3d_implacable_ik_furniture3_tone4.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture3_tone4"
+      ]
+    },
+    "drom3d_implacable_ik_furniture3_tone5": {
+      "size": 65504,
+      "mtime_ns": 1791445477782714448,
+      "md5": "706fd449f0a8b5187493fd42bff8b1e4",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture3_tone5/drom3d_implacable_ik_furniture3_tone5.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture3_tone5"
+      ]
+    },
+    "drom3d_implacable_ik_furniture3_tone6": {
+      "size": 31840,
+      "mtime_ns": 1791445477819507100,
+      "md5": "90e6116f40672afab85aeb3b408e1efd",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture3_tone6/drom3d_implacable_ik_furniture3_tone6.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture3_tone6"
+      ]
+    },
+    "drom3d_implacable_ik_furniture3_tone7": {
+      "size": 48000,
+      "mtime_ns": 1791445477886862890,
+      "md5": "3eaa483a5538548ea9ddfa3450b62b7f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture3_tone7/drom3d_implacable_ik_furniture3_tone7.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture3_tone7"
+      ]
+    },
+    "drom3d_implacable_ik_furniture3_tone8": {
+      "size": 39328,
+      "mtime_ns": 1791445477946948531,
+      "md5": "d2e230a4618ca89355700c9b94cc89f1",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_furniture3_tone8/drom3d_implacable_ik_furniture3_tone8.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_furniture3_tone8"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone1": {
+      "size": 35072,
+      "mtime_ns": 1791445477918908565,
+      "md5": "7a6eb184d14dd12c957fe2a5c74b146b",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone1/drom3d_implacable_ik_gfit1_tone1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone1"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone10": {
+      "size": 57696,
+      "mtime_ns": 1791445477744211383,
+      "md5": "795528694145f573d0ea239311bebff5",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone10/drom3d_implacable_ik_gfit1_tone10.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone10"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone11": {
+      "size": 74368,
+      "mtime_ns": 1791445477986750278,
+      "md5": "584881069264e80a249da6736d96109b",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone11/drom3d_implacable_ik_gfit1_tone11.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone11"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone12": {
+      "size": 69440,
+      "mtime_ns": 1791445477966977077,
+      "md5": "c7a6f13d5b0b08773c7347faca6dced4",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone12/drom3d_implacable_ik_gfit1_tone12.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone12"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone2": {
+      "size": 32192,
+      "mtime_ns": 1791445477980320244,
+      "md5": "10c60078e3c89eb6d434f9e93c3eb701",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone2/drom3d_implacable_ik_gfit1_tone2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone2"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone3": {
+      "size": 43584,
+      "mtime_ns": 1791445478021204642,
+      "md5": "9469ab422fce38d8d37eeb929faaf032",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone3/drom3d_implacable_ik_gfit1_tone3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone3"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone4": {
+      "size": 36096,
+      "mtime_ns": 1791445478045027272,
+      "md5": "15d1913b08f2bf2232ec6378767d4aca",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone4/drom3d_implacable_ik_gfit1_tone4.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone4"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone5": {
+      "size": 33056,
+      "mtime_ns": 1791445477954952639,
+      "md5": "26a9107d0968e952a17fef9ccb235e74",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone5/drom3d_implacable_ik_gfit1_tone5.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone5"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone6": {
+      "size": 50208,
+      "mtime_ns": 1791445478101217899,
+      "md5": "00ebec633f900d9cad7aac1ec0f8e79d",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone6/drom3d_implacable_ik_gfit1_tone6.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone6"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone7": {
+      "size": 42912,
+      "mtime_ns": 1791445478051072880,
+      "md5": "83c3f81911fea873878652b15de2bf9d",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone7/drom3d_implacable_ik_gfit1_tone7.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone7"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone8": {
+      "size": 55648,
+      "mtime_ns": 1791445478106859012,
+      "md5": "c0490c59257883d117890b172cde174d",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone8/drom3d_implacable_ik_gfit1_tone8.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone8"
+      ]
+    },
+    "drom3d_implacable_ik_gfit1_tone9": {
+      "size": 62784,
+      "mtime_ns": 1791445478296521452,
+      "md5": "f6b2398ec9d4b2b54517c22c2096bc09",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_gfit1_tone9/drom3d_implacable_ik_gfit1_tone9.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_gfit1_tone9"
+      ]
+    },
+    "drom3d_implacable_ik_public3_tone1": {
+      "size": 39840,
+      "mtime_ns": 1791445478118829040,
+      "md5": "e4459ff91d36e9c86e3166c60a8be6d0",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_public3_tone1/drom3d_implacable_ik_public3_tone1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_public3_tone1"
+      ]
+    },
+    "drom3d_implacable_ik_public3_tone2": {
+      "size": 60768,
+      "mtime_ns": 1791445478161173364,
+      "md5": "ee0f3aee1f1c2aee54a4374f08e92aef",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_public3_tone2/drom3d_implacable_ik_public3_tone2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_public3_tone2"
+      ]
+    },
+    "drom3d_implacable_ik_public3_tone3": {
+      "size": 61952,
+      "mtime_ns": 1791445478259174997,
+      "md5": "abae850d1ac3c941218b9edf4681d7f4",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_public3_tone3/drom3d_implacable_ik_public3_tone3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_public3_tone3"
+      ]
+    },
+    "drom3d_implacable_ik_public3_tone4": {
+      "size": 72160,
+      "mtime_ns": 1791445478296521452,
+      "md5": "aaec7fe734e8f2f9f15cc6e3b2f985cb",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_public3_tone4/drom3d_implacable_ik_public3_tone4.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_public3_tone4"
+      ]
+    },
+    "drom3d_implacable_ik_public3_tone5": {
+      "size": 43424,
+      "mtime_ns": 1791445478455285219,
+      "md5": "1ff8d4238d83c39006697d6a7dea2465",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_public3_tone5/drom3d_implacable_ik_public3_tone5.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_public3_tone5"
+      ]
+    },
+    "drom3d_implacable_ik_public3_tone6": {
+      "size": 41216,
+      "mtime_ns": 1791445478259174997,
+      "md5": "a7efab46a7aaa590b302fc6a17e03d67",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_public3_tone6/drom3d_implacable_ik_public3_tone6.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_public3_tone6"
+      ]
+    },
+    "drom3d_implacable_ik_tone1": {
+      "size": 11968,
+      "mtime_ns": 1791445478387852678,
+      "md5": "24438f26b7c658868fb3c1f2223a0545",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone1/drom3d_implacable_ik_tone1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone1"
+      ]
+    },
+    "drom3d_implacable_ik_tone10": {
+      "size": 28960,
+      "mtime_ns": 1791445478459287468,
+      "md5": "7af29b910b1c1cd37f57faa28c9ccffd",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone10/drom3d_implacable_ik_tone10.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone10"
+      ]
+    },
+    "drom3d_implacable_ik_tone11": {
+      "size": 37632,
+      "mtime_ns": 1791445478360977113,
+      "md5": "c5c2aef329547783e7d8273f2d9cc881",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone11/drom3d_implacable_ik_tone11.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone11"
+      ]
+    },
+    "drom3d_implacable_ik_tone12": {
+      "size": 64000,
+      "mtime_ns": 1791445478569422360,
+      "md5": "82591b9542693f579cc1cbecf919339f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone12/drom3d_implacable_ik_tone12.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone12"
+      ]
+    },
+    "drom3d_implacable_ik_tone13": {
+      "size": 61088,
+      "mtime_ns": 1791445478579354950,
+      "md5": "7bf277c2673b49abca440c6036e59a85",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone13/drom3d_implacable_ik_tone13.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone13"
+      ]
+    },
+    "drom3d_implacable_ik_tone14": {
+      "size": 26080,
+      "mtime_ns": 1791445478504510349,
+      "md5": "83500e243f0bea094e85d9f37e49bde6",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone14/drom3d_implacable_ik_tone14.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone14"
+      ]
+    },
+    "drom3d_implacable_ik_tone15": {
+      "size": 38496,
+      "mtime_ns": 1791445478443912879,
+      "md5": "8e3150d4081b959e1aec61a22c52815d",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone15/drom3d_implacable_ik_tone15.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone15"
+      ]
+    },
+    "drom3d_implacable_ik_tone16": {
+      "size": 45280,
+      "mtime_ns": 1791445478615375194,
+      "md5": "1a321c8f68ec7e7da5454f5415617c07",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone16/drom3d_implacable_ik_tone16.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone16"
+      ]
+    },
+    "drom3d_implacable_ik_tone17": {
+      "size": 28448,
+      "mtime_ns": 1791445478700830249,
+      "md5": "c7a6b3df211c19b55bb92b427146963f",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone17/drom3d_implacable_ik_tone17.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone17"
+      ]
+    },
+    "drom3d_implacable_ik_tone18": {
+      "size": 35776,
+      "mtime_ns": 1791445478564949923,
+      "md5": "beb107c1894d6e0ad13fd021c7a2cb71",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone18/drom3d_implacable_ik_tone18.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone18"
+      ]
+    },
+    "drom3d_implacable_ik_tone19": {
+      "size": 21664,
+      "mtime_ns": 1791445478505354128,
+      "md5": "1b8523d2a0c6e0512a244bf13f41ddc5",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone19/drom3d_implacable_ik_tone19.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone19"
+      ]
+    },
+    "drom3d_implacable_ik_tone2": {
+      "size": 14848,
+      "mtime_ns": 1791445478569422360,
+      "md5": "28dc6023c7ad13703de77056ef8db373",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone2/drom3d_implacable_ik_tone2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone2"
+      ]
+    },
+    "drom3d_implacable_ik_tone20": {
+      "size": 35072,
+      "mtime_ns": 1791445478659399938,
+      "md5": "da2784309d8360c1b2093b1a2797a05c",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone20/drom3d_implacable_ik_tone20.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone20"
+      ]
+    },
+    "drom3d_implacable_ik_tone3": {
+      "size": 19264,
+      "mtime_ns": 1791445478679512251,
+      "md5": "020fba7a5174437cffa6559468b0b4b8",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone3/drom3d_implacable_ik_tone3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone3"
+      ]
+    },
+    "drom3d_implacable_ik_tone4": {
+      "size": 13504,
+      "mtime_ns": 1791445478759661743,
+      "md5": "76f1463de20344312269ce661695568a",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone4/drom3d_implacable_ik_tone4.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone4"
+      ]
+    },
+    "drom3d_implacable_ik_tone5": {
+      "size": 16896,
+      "mtime_ns": 1791445478779342305,
+      "md5": "66faf80d9dae2ac2184113bed3aa8d05",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone5/drom3d_implacable_ik_tone5.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone5"
+      ]
+    },
+    "drom3d_implacable_ik_tone6": {
+      "size": 15200,
+      "mtime_ns": 1791445478718962509,
+      "md5": "90e87772f966f48fe8218b6929f3cb46",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone6/drom3d_implacable_ik_tone6.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone6"
+      ]
+    },
+    "drom3d_implacable_ik_tone7": {
+      "size": 16032,
+      "mtime_ns": 1791445478751911045,
+      "md5": "887151cb6765f4c65498001773de3981",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone7/drom3d_implacable_ik_tone7.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone7"
+      ]
+    },
+    "drom3d_implacable_ik_tone8": {
+      "size": 14176,
+      "mtime_ns": 1791445478697150250,
+      "md5": "e9e7fac11578dc389f51a7d81af3aae4",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone8/drom3d_implacable_ik_tone8.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone8"
+      ]
+    },
+    "drom3d_implacable_ik_tone9": {
+      "size": 22176,
+      "mtime_ns": 1791445478768266568,
+      "md5": "4320279a842433b4b3c3a5a04a42eb98",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_ik_tone9/drom3d_implacable_ik_tone9.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_ik_tone9"
+      ]
+    },
+    "drom3d_implacable_timeline01_voice1": {
+      "size": 60064,
+      "mtime_ns": 1791445478941175372,
+      "md5": "80ffbf4657a6db840f04adeb2ba2eb94",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline01_voice1/drom3d_implacable_timeline01_voice1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline01_voice1"
+      ]
+    },
+    "drom3d_implacable_timeline01_voice2": {
+      "size": 52256,
+      "mtime_ns": 1791445478876327234,
+      "md5": "dd2ae5dda1dc1e9a64dc5945ce70417b",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline01_voice2/drom3d_implacable_timeline01_voice2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline01_voice2"
+      ]
+    },
+    "drom3d_implacable_timeline01_voice3": {
+      "size": 63808,
+      "mtime_ns": 1791445479015592863,
+      "md5": "7429e6138d9878b1f75b492a196c657c",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline01_voice3/drom3d_implacable_timeline01_voice3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline01_voice3"
+      ]
+    },
+    "drom3d_implacable_timeline01_voice4": {
+      "size": 45440,
+      "mtime_ns": 1791445479087578858,
+      "md5": "91209c3e2f832dcdcae82fe9c99364cd",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline01_voice4/drom3d_implacable_timeline01_voice4.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline01_voice4"
+      ]
+    },
+    "drom3d_implacable_timeline01_voice5": {
+      "size": 56672,
+      "mtime_ns": 1791445478967573142,
+      "md5": "4acfd5d2af8ea9a2ae4fb3fd7bb34015",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline01_voice5/drom3d_implacable_timeline01_voice5.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline01_voice5"
+      ]
+    },
+    "drom3d_implacable_timeline01_voice6": {
+      "size": 57856,
+      "mtime_ns": 1791445478821855130,
+      "md5": "fbc5b1658fe9d197c9d6f0db21031afb",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline01_voice6/drom3d_implacable_timeline01_voice6.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline01_voice6"
+      ]
+    },
+    "drom3d_implacable_timeline02_voice1": {
+      "size": 48352,
+      "mtime_ns": 1791445478821855130,
+      "md5": "9018704cd2f88683066d044b128e9310",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline02_voice1/drom3d_implacable_timeline02_voice1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline02_voice1"
+      ]
+    },
+    "drom3d_implacable_timeline02_voice2": {
+      "size": 72832,
+      "mtime_ns": 1791445478884685821,
+      "md5": "4d84f887a4e6706f245fb8d3cc733997",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline02_voice2/drom3d_implacable_timeline02_voice2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline02_voice2"
+      ]
+    },
+    "drom3d_implacable_timeline02_voice3": {
+      "size": 75200,
+      "mtime_ns": 1791445479137674602,
+      "md5": "8a04e68d7ffcac8793be8b392db623f2",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline02_voice3/drom3d_implacable_timeline02_voice3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline02_voice3"
+      ]
+    },
+    "drom3d_implacable_timeline02_voice4": {
+      "size": 81824,
+      "mtime_ns": 1791445479203556294,
+      "md5": "2984ac6ad5f040e31f2c2df458c42296",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline02_voice4/drom3d_implacable_timeline02_voice4.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline02_voice4"
+      ]
+    },
+    "drom3d_implacable_timeline02_voice5": {
+      "size": 65504,
+      "mtime_ns": 1791445479241024945,
+      "md5": "088d47c4adcf9861f7871cf60f693dee",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline02_voice5/drom3d_implacable_timeline02_voice5.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline02_voice5"
+      ]
+    },
+    "drom3d_implacable_timeline03_voice1": {
+      "size": 48000,
+      "mtime_ns": 1791445479295538399,
+      "md5": "08a9fbe2db31a8216b09aa1f4b912065",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline03_voice1/drom3d_implacable_timeline03_voice1.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline03_voice1"
+      ]
+    },
+    "drom3d_implacable_timeline03_voice2": {
+      "size": 67904,
+      "mtime_ns": 1791445479176373969,
+      "md5": "570f1723acb2e403e41221530f401a05",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline03_voice2/drom3d_implacable_timeline03_voice2.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline03_voice2"
+      ]
+    },
+    "drom3d_implacable_timeline03_voice3": {
+      "size": 82016,
+      "mtime_ns": 1791445479103575746,
+      "md5": "b0540832cad3d19fa2a5023d3f4bfacb",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline03_voice3/drom3d_implacable_timeline03_voice3.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline03_voice3"
+      ]
+    },
+    "drom3d_implacable_timeline03_voice4": {
+      "size": 51072,
+      "mtime_ns": 1791445479068183986,
+      "md5": "6f9ec51efa783000cdf92f65c92509f0",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline03_voice4/drom3d_implacable_timeline03_voice4.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline03_voice4"
+      ]
+    },
+    "drom3d_implacable_timeline03_voice5": {
+      "size": 60416,
+      "mtime_ns": 1791445479137674602,
+      "md5": "a3e7690413120cbb8e09ca9ce98b9687",
+      "category": "dorm3d",
+      "group_key": null,
+      "outputs": [
+        "dorm3d/drom3d_implacable_timeline03_voice5/drom3d_implacable_timeline03_voice5.opus"
+      ],
+      "cues": [
+        "drom3d_implacable_timeline03_voice5"
+      ]
+    },
+    "se-skininteractive": {
+      "size": 15648,
+      "mtime_ns": 1791445479354545632,
+      "md5": "c76a8365213ccd0487bbbe2f0c8d3d3e",
+      "category": "misc",
+      "group_key": null,
+      "outputs": [
+        "misc/se-skininteractive/empty.opus"
+      ],
+      "cues": [
+        "empty"
       ]
     }
   }
