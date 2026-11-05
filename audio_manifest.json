@@ -28363,11 +28363,11 @@
         "skill",
         "warcry"
       ],
-      "mtime_ns": 1785996860401761533
+      "mtime_ns": 1778796325066210424
     },
     "cv-110201": {
       "size": 6556736,
-      "mtime_ns": 1792653104631149342,
+      "mtime_ns": 1793848618740679759,
       "md5": "525b577e5de4f2f5975f87655bdb4fdc",
       "category": "cv",
       "group_key": "110201",
@@ -44095,11 +44095,11 @@
         "warcry",
         "warcry_ex1100"
       ],
-      "mtime_ns": 1785996842472892455
+      "mtime_ns": 1778796326266851884
     },
     "cv-20507": {
       "size": 7060384,
-      "mtime_ns": 1792653104555147861,
+      "mtime_ns": 1793848618672695597,
       "md5": "286c58d95be4fb1f717595be3baa1e2d",
       "category": "cv",
       "group_key": "20507",
@@ -73037,11 +73037,11 @@
         "skill",
         "warcry"
       ],
-      "mtime_ns": 1785996846419814145
+      "mtime_ns": 1778796328599839707
     },
     "cv-39907": {
       "size": 6845536,
-      "mtime_ns": 1792653104551147782,
+      "mtime_ns": 1793848619536492944,
       "md5": "68caea938ae724fc49ff7d265acd13b2",
       "category": "cv",
       "group_key": "39907",
@@ -79750,13 +79750,15 @@
       "mtime_ns": 1778796329174400156
     },
     "cv-40401": {
-      "size": 1828096,
-      "md5": "5ea523eb3ffa1687fa177468444e5567",
+      "size": 2881568,
+      "mtime_ns": 1793848618132821371,
+      "md5": "90fecb3dd7db0ab407ffe628165f764a",
       "category": "cv",
       "group_key": "40401",
       "outputs": [
         "voiceline/40401/detail.opus",
         "voiceline/40401/detail_1.opus",
+        "voiceline/40401/detail_ex1100.opus",
         "voiceline/40401/expedition.opus",
         "voiceline/40401/feeling1.opus",
         "voiceline/40401/feeling2.opus",
@@ -79764,12 +79766,15 @@
         "voiceline/40401/feeling4.opus",
         "voiceline/40401/feeling5.opus",
         "voiceline/40401/feeling5_1.opus",
+        "voiceline/40401/feeling5_ex1100.opus",
         "voiceline/40401/get.opus",
         "voiceline/40401/get_1.opus",
         "voiceline/40401/home.opus",
         "voiceline/40401/home_1.opus",
+        "voiceline/40401/home_ex1100.opus",
         "voiceline/40401/login.opus",
         "voiceline/40401/login_1.opus",
+        "voiceline/40401/login_ex1100.opus",
         "voiceline/40401/mail.opus",
         "voiceline/40401/main_1.opus",
         "voiceline/40401/main_1_1.opus",
@@ -79777,19 +79782,27 @@
         "voiceline/40401/main_2_1.opus",
         "voiceline/40401/main_3.opus",
         "voiceline/40401/main_3_1.opus",
+        "voiceline/40401/main_4_ex1100.opus",
+        "voiceline/40401/main_5_ex1100.opus",
+        "voiceline/40401/main_6_ex1100.opus",
         "voiceline/40401/mission_complete.opus",
         "voiceline/40401/profile.opus",
         "voiceline/40401/propose.opus",
         "voiceline/40401/task.opus",
         "voiceline/40401/touch_1.opus",
         "voiceline/40401/touch_1_1.opus",
+        "voiceline/40401/touch_1_ex1100.opus",
         "voiceline/40401/touch_2.opus",
         "voiceline/40401/touch_2_1.opus",
+        "voiceline/40401/touch_2_ex1100.opus",
+        "voiceline/40401/touch_head.opus",
+        "voiceline/40401/touch_head_ex1100.opus",
         "voiceline/40401/upgrade.opus"
       ],
       "cues": [
         "detail",
         "detail_1",
+        "detail_ex1100",
         "expedition",
         "feeling1",
         "feeling2",
@@ -79797,12 +79810,15 @@
         "feeling4",
         "feeling5",
         "feeling5_1",
+        "feeling5_ex1100",
         "get",
         "get_1",
         "home",
         "home_1",
+        "home_ex1100",
         "login",
         "login_1",
+        "login_ex1100",
         "mail",
         "main_1",
         "main_1_1",
@@ -79810,17 +79826,23 @@
         "main_2_1",
         "main_3",
         "main_3_1",
+        "main_4_ex1100",
+        "main_5_ex1100",
+        "main_6_ex1100",
         "mission_complete",
         "profile",
         "propose",
         "task",
         "touch_1",
         "touch_1_1",
+        "touch_1_ex1100",
         "touch_2",
         "touch_2_1",
+        "touch_2_ex1100",
+        "touch_head",
+        "touch_head_ex1100",
         "upgrade"
-      ],
-      "mtime_ns": 1778796329234217471
+      ]
     },
     "cv-40402-battle": {
       "size": 101632,
@@ -80694,8 +80716,9 @@
       "mtime_ns": 1778796329234217471
     },
     "cv-40501": {
-      "size": 5788640,
-      "md5": "1faefda994538e3fa13809dc2c07b5e7",
+      "size": 6841888,
+      "mtime_ns": 1793848618876648083,
+      "md5": "546a9dc401e0ea672d3ef846d4249b20",
       "category": "cv",
       "group_key": "40501",
       "outputs": [
@@ -80704,6 +80727,7 @@
         "voiceline/40501/detail_2.opus",
         "voiceline/40501/detail_3.opus",
         "voiceline/40501/detail_8.opus",
+        "voiceline/40501/detail_ex1100.opus",
         "voiceline/40501/expedition.opus",
         "voiceline/40501/expedition_1.opus",
         "voiceline/40501/expedition_2.opus",
@@ -80719,6 +80743,7 @@
         "voiceline/40501/feeling5_2.opus",
         "voiceline/40501/feeling5_3.opus",
         "voiceline/40501/feeling5_8.opus",
+        "voiceline/40501/feeling5_ex1100.opus",
         "voiceline/40501/get.opus",
         "voiceline/40501/get_1.opus",
         "voiceline/40501/get_2.opus",
@@ -80729,11 +80754,13 @@
         "voiceline/40501/home_2.opus",
         "voiceline/40501/home_3.opus",
         "voiceline/40501/home_8.opus",
+        "voiceline/40501/home_ex1100.opus",
         "voiceline/40501/login.opus",
         "voiceline/40501/login_1.opus",
         "voiceline/40501/login_2.opus",
         "voiceline/40501/login_3.opus",
         "voiceline/40501/login_8.opus",
+        "voiceline/40501/login_ex1100.opus",
         "voiceline/40501/mail.opus",
         "voiceline/40501/mail_1.opus",
         "voiceline/40501/mail_2.opus",
@@ -80753,6 +80780,9 @@
         "voiceline/40501/main_3_1.opus",
         "voiceline/40501/main_3_3.opus",
         "voiceline/40501/main_3_8.opus",
+        "voiceline/40501/main_4_ex1100.opus",
+        "voiceline/40501/main_5_ex1100.opus",
+        "voiceline/40501/main_6_ex1100.opus",
         "voiceline/40501/mission_complete.opus",
         "voiceline/40501/mission_complete_1.opus",
         "voiceline/40501/mission_complete_2.opus",
@@ -80770,12 +80800,16 @@
         "voiceline/40501/touch_1_2.opus",
         "voiceline/40501/touch_1_3.opus",
         "voiceline/40501/touch_1_8.opus",
+        "voiceline/40501/touch_1_ex1100.opus",
         "voiceline/40501/touch_2.opus",
         "voiceline/40501/touch_2_1.opus",
         "voiceline/40501/touch_2_2.opus",
         "voiceline/40501/touch_2_3.opus",
         "voiceline/40501/touch_2_8.opus",
+        "voiceline/40501/touch_2_ex1100.opus",
+        "voiceline/40501/touch_head.opus",
         "voiceline/40501/touch_head_3.opus",
+        "voiceline/40501/touch_head_ex1100.opus",
         "voiceline/40501/upgrade.opus"
       ],
       "cues": [
@@ -80784,6 +80818,7 @@
         "detail_2",
         "detail_3",
         "detail_8",
+        "detail_ex1100",
         "expedition",
         "expedition_1",
         "expedition_2",
@@ -80799,6 +80834,7 @@
         "feeling5_2",
         "feeling5_3",
         "feeling5_8",
+        "feeling5_ex1100",
         "get",
         "get_1",
         "get_2",
@@ -80809,11 +80845,13 @@
         "home_2",
         "home_3",
         "home_8",
+        "home_ex1100",
         "login",
         "login_1",
         "login_2",
         "login_3",
         "login_8",
+        "login_ex1100",
         "mail",
         "mail_1",
         "mail_2",
@@ -80833,6 +80871,9 @@
         "main_3_1",
         "main_3_3",
         "main_3_8",
+        "main_4_ex1100",
+        "main_5_ex1100",
+        "main_6_ex1100",
         "mission_complete",
         "mission_complete_1",
         "mission_complete_2",
@@ -80850,15 +80891,18 @@
         "touch_1_2",
         "touch_1_3",
         "touch_1_8",
+        "touch_1_ex1100",
         "touch_2",
         "touch_2_1",
         "touch_2_2",
         "touch_2_3",
         "touch_2_8",
+        "touch_2_ex1100",
+        "touch_head",
         "touch_head_3",
+        "touch_head_ex1100",
         "upgrade"
-      ],
-      "mtime_ns": 1778796329660914315
+      ]
     },
     "cv-40502-battle": {
       "size": 144640,
@@ -83486,8 +83530,9 @@
       "mtime_ns": 1778796329481462371
     },
     "cv-40804": {
-      "size": 3119392,
-      "md5": "abc4a017ab58c2eb1680fa68863ffa9b",
+      "size": 4077856,
+      "mtime_ns": 1793848618440749633,
+      "md5": "9be69d0c3a50d909d980df0cf5d5a5a6",
       "category": "cv",
       "group_key": "40804",
       "outputs": [
@@ -83504,15 +83549,18 @@
         "voiceline/40804/feeling5.opus",
         "voiceline/40804/feeling5_1.opus",
         "voiceline/40804/feeling5_2.opus",
+        "voiceline/40804/feeling5_ex1100.opus",
         "voiceline/40804/get.opus",
         "voiceline/40804/get_1.opus",
         "voiceline/40804/get_2.opus",
         "voiceline/40804/home.opus",
         "voiceline/40804/home_1.opus",
         "voiceline/40804/home_2.opus",
+        "voiceline/40804/home_ex1100.opus",
         "voiceline/40804/login.opus",
         "voiceline/40804/login_1.opus",
         "voiceline/40804/login_2.opus",
+        "voiceline/40804/login_ex1100.opus",
         "voiceline/40804/mail.opus",
         "voiceline/40804/mail_2.opus",
         "voiceline/40804/main_1.opus",
@@ -83524,6 +83572,9 @@
         "voiceline/40804/main_3.opus",
         "voiceline/40804/main_3_1.opus",
         "voiceline/40804/main_3_2.opus",
+        "voiceline/40804/main_4_ex1100.opus",
+        "voiceline/40804/main_5_ex1100.opus",
+        "voiceline/40804/main_6_ex1100.opus",
         "voiceline/40804/mission_complete.opus",
         "voiceline/40804/present_dislike.opus",
         "voiceline/40804/present_like.opus",
@@ -83533,9 +83584,13 @@
         "voiceline/40804/touch_1.opus",
         "voiceline/40804/touch_1_1.opus",
         "voiceline/40804/touch_1_2.opus",
+        "voiceline/40804/touch_1_ex1100.opus",
         "voiceline/40804/touch_2.opus",
         "voiceline/40804/touch_2_1.opus",
         "voiceline/40804/touch_2_2.opus",
+        "voiceline/40804/touch_2_ex1100.opus",
+        "voiceline/40804/touch_head.opus",
+        "voiceline/40804/touch_head_ex1100.opus",
         "voiceline/40804/upgrade.opus"
       ],
       "cues": [
@@ -83552,15 +83607,18 @@
         "feeling5",
         "feeling5_1",
         "feeling5_2",
+        "feeling5_ex1100",
         "get",
         "get_1",
         "get_2",
         "home",
         "home_1",
         "home_2",
+        "home_ex1100",
         "login",
         "login_1",
         "login_2",
+        "login_ex1100",
         "mail",
         "mail_2",
         "main_1",
@@ -83572,6 +83630,9 @@
         "main_3",
         "main_3_1",
         "main_3_2",
+        "main_4_ex1100",
+        "main_5_ex1100",
+        "main_6_ex1100",
         "mission_complete",
         "present_dislike",
         "present_like",
@@ -83581,12 +83642,15 @@
         "touch_1",
         "touch_1_1",
         "touch_1_2",
+        "touch_1_ex1100",
         "touch_2",
         "touch_2_1",
         "touch_2_2",
+        "touch_2_ex1100",
+        "touch_head",
+        "touch_head_ex1100",
         "upgrade"
-      ],
-      "mtime_ns": 1778796329684841241
+      ]
     },
     "cv-40805-battle": {
       "size": 227488,
@@ -114101,11 +114165,11 @@
         "skill",
         "warcry"
       ],
-      "mtime_ns": 1785996846368037389
+      "mtime_ns": 1778796320850222400
     },
     "cv-960012": {
       "size": 5900544,
-      "mtime_ns": 1792653104631149342,
+      "mtime_ns": 1793848618404758018,
       "md5": "1aa101e47e2448929483a0ffe86428d3",
       "category": "cv",
       "group_key": "960012",
@@ -167476,7 +167540,7 @@
     },
     "cv-960017-battle": {
       "size": 360320,
-      "mtime_ns": 1792653104035914679,
+      "mtime_ns": 1793848618158867630,
       "md5": "f15994b2010bdddb96d6959081425779",
       "category": "cv",
       "group_key": "960017",
@@ -167501,7 +167565,7 @@
     },
     "cv-960017": {
       "size": 5028672,
-      "mtime_ns": 1792653104575148250,
+      "mtime_ns": 1793848618548724478,
       "md5": "cb68cac6e8f4714bbfbddbe8894bed35",
       "category": "cv",
       "group_key": "960017",
@@ -167596,7 +167660,7 @@
     },
     "cv-960018-battle": {
       "size": 169440,
-      "mtime_ns": 1792653104072782570,
+      "mtime_ns": 1793848618636703982,
       "md5": "d4892ec3df86017b066a37d350162dcd",
       "category": "cv",
       "group_key": "960018",
@@ -167617,7 +167681,7 @@
     },
     "cv-960018": {
       "size": 4516896,
-      "mtime_ns": 1792653104540975091,
+      "mtime_ns": 1793848618589926322,
       "md5": "1d271694936eb6c48014a4391d8e7bd6",
       "category": "cv",
       "group_key": "960018",
@@ -167714,7 +167778,7 @@
     },
     "cv-960019-battle": {
       "size": 221312,
-      "mtime_ns": 1792653104540975091,
+      "mtime_ns": 1793848618008850252,
       "md5": "ddf2d2bdac372346eaa8a40ad7957b9e",
       "category": "cv",
       "group_key": "960019",
@@ -167737,7 +167801,7 @@
     },
     "cv-960019": {
       "size": 4452800,
-      "mtime_ns": 1792653104535147471,
+      "mtime_ns": 1793848618712686280,
       "md5": "4abcc3c7dc760dbaec865c9f868566a3",
       "category": "cv",
       "group_key": "960019",
@@ -167834,7 +167898,7 @@
     },
     "cv-960020-battle": {
       "size": 233696,
-      "mtime_ns": 1792653104072782570,
+      "mtime_ns": 1793848618017653896,
       "md5": "9e223ab93fd525e162284715fc5e9643",
       "category": "cv",
       "group_key": "960020",
@@ -167857,7 +167921,7 @@
     },
     "cv-960020": {
       "size": 4556160,
-      "mtime_ns": 1792653104679150276,
+      "mtime_ns": 1793848618620707709,
       "md5": "ac54f35de7257c5da9297d88aaa85472",
       "category": "cv",
       "group_key": "960020",
@@ -167956,7 +168020,7 @@
     },
     "cv-960021-battle": {
       "size": 238784,
-      "mtime_ns": 1792653104143139829,
+      "mtime_ns": 1793848618120824166,
       "md5": "ca61e1bb5b98f534ca46453942a8bbf2",
       "category": "cv",
       "group_key": "960021",
@@ -167981,7 +168045,7 @@
     },
     "cv-960021": {
       "size": 4809792,
-      "mtime_ns": 1792653104791152460,
+      "mtime_ns": 1793848618475162842,
       "md5": "92429ab6917468e13ce19dc173b06ff6",
       "category": "cv",
       "group_key": "960021",
@@ -168078,6 +168142,162 @@
         "touch_head_1",
         "touch_head_ex1100",
         "upgrade"
+      ]
+    },
+    "bgm-story-fogsea-light": {
+      "size": 715808,
+      "mtime_ns": 1793848606110464276,
+      "md5": "ec59431d23a2341a1ae2077f4031aaf7",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/story-fogsea-light/映星启辉_PV.opus"
+      ],
+      "cues": [
+        "映星启辉_PV"
+      ]
+    },
+    "bgm-story-tempest-daily-light": {
+      "size": 1024288,
+      "mtime_ns": 1793848606178434189,
+      "md5": "143111d4595c66d6a48b0707471586cf",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/story-tempest-daily-light/云散潮舒_PV.opus"
+      ],
+      "cues": [
+        "云散潮舒_PV"
+      ]
+    },
+    "bgm-story-tempest-oldpast": {
+      "size": 2169120,
+      "mtime_ns": 1793848606322370476,
+      "md5": "118796a61ad121063da7e52ff644e85b",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/story-tempest-oldpast/古昔之战_shade.opus"
+      ],
+      "cues": [
+        "古昔之战_shade"
+      ]
+    },
+    "bgm-theme-amahara-core": {
+      "size": 1184544,
+      "mtime_ns": 1793848606234409411,
+      "md5": "3ab73ce8b9bcbe913d00e04a9988ddad",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/theme-amahara-core/天域逆潮_AL.opus"
+      ],
+      "cues": [
+        "天域逆潮_AL"
+      ]
+    },
+    "bgm-theme-crownpolis": {
+      "size": 1112096,
+      "mtime_ns": 1793848606286386404,
+      "md5": "9d9fb3e81f2096dcc34744a911ac335a",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/theme-crownpolis/五海之王座_AL.opus"
+      ],
+      "cues": [
+        "五海之王座_AL"
+      ]
+    },
+    "bgm-theme-fogsea": {
+      "size": 1060416,
+      "mtime_ns": 1793848606282388174,
+      "md5": "fc6d1799962fe7995a56b1c714f5f5aa",
+      "category": "bgm",
+      "group_key": null,
+      "outputs": [
+        "bgm/theme-fogsea/雾霭沉星之海_AL.opus"
+      ],
+      "cues": [
+        "雾霭沉星之海_AL"
+      ]
+    },
+    "cv-960017-gift": {
+      "size": 81792,
+      "mtime_ns": 1793848618188808327,
+      "md5": "237f1d60f204d08eda521f708fa3b920",
+      "category": "misc",
+      "group_key": null,
+      "outputs": [
+        "misc/cv-960017-gift/present_like.opus"
+      ],
+      "cues": [
+        "present_like"
+      ]
+    },
+    "cv-960018-gift": {
+      "size": 41856,
+      "mtime_ns": 1793848617988854871,
+      "md5": "489477ef5cc847c478fbec13975e6c74",
+      "category": "misc",
+      "group_key": null,
+      "outputs": [
+        "misc/cv-960018-gift/present_like.opus"
+      ],
+      "cues": [
+        "present_like"
+      ]
+    },
+    "cv-960019-gift": {
+      "size": 68032,
+      "mtime_ns": 1793848618072835346,
+      "md5": "463aa7f497381ad117ef6569736b4c95",
+      "category": "misc",
+      "group_key": null,
+      "outputs": [
+        "misc/cv-960019-gift/present_like.opus"
+      ],
+      "cues": [
+        "present_like"
+      ]
+    },
+    "cv-960020-gift": {
+      "size": 64960,
+      "mtime_ns": 1793848618264790626,
+      "md5": "a391d9cad9c3fe9aa8b19f7b240ddb3c",
+      "category": "misc",
+      "group_key": null,
+      "outputs": [
+        "misc/cv-960020-gift/present_like.opus"
+      ],
+      "cues": [
+        "present_like"
+      ]
+    },
+    "cv-960021-gift": {
+      "size": 66496,
+      "mtime_ns": 1793848617992853950,
+      "md5": "48c18f8006cb2abb6196bb84ff46bff6",
+      "category": "misc",
+      "group_key": null,
+      "outputs": [
+        "misc/cv-960021-gift/present_like.opus"
+      ],
+      "cues": [
+        "present_like"
+      ]
+    },
+    "ss-960019-1": {
+      "size": 166432,
+      "mtime_ns": 1793848606326368706,
+      "md5": "e7b4a7924afaada636d64220a8c0bf06",
+      "category": "ss",
+      "group_key": null,
+      "outputs": [
+        "ss/ss-960019-1/ss-960019-1-JP.opus"
+      ],
+      "cues": [
+        "ss-960019-1-JP"
       ]
     }
   }
